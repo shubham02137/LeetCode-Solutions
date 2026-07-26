@@ -34,11 +34,11 @@ A real-time overview of my problem-solving progress on LeetCode.
 
 <!-- DASHBOARD_START -->
 | Metric | Solved |
-| :--- | ---: |
-| 🧩 **Total Problems** | **—** |
-| 🟢 **Easy** | **—** |
-| 🟡 **Medium** | **—** |
-| 🔴 **Hard** | **—** |
+|:--|--:|
+| 🧩 **Total Problems** | **212** |
+| 🟢 Easy | **48** |
+| 🟡 Medium | **122** |
+| 🔴 Hard | **42** |
 <!-- DASHBOARD_END -->
 
 > ⚡ Dashboard statistics are automatically synchronized with my LeetCode profile using a custom Python statistics engine and GitHub Actions.
@@ -82,32 +82,32 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 
 <!-- TOPIC_STATS_START -->
 | Topic | Solved |
-| :--- | ---: |
-| 📦 **Array** | **—** |
-| 🔤 **String** | **—** |
-| #️⃣ **Hash Table** | **—** |
-| ➗ **Math** | **—** |
-| 🔃 **Sorting** | **—** |
-| 👉 **Two Pointers** | **—** |
-| 🪟 **Sliding Window** | **—** |
-| ➕ **Prefix Sum** | **—** |
-| 🔎 **Binary Search** | **—** |
-| 🔗 **Linked List** | **—** |
-| 📚 **Stack** | **—** |
-| 🚶 **Queue** | **—** |
-| ⛰️ **Heap (Priority Queue)** | **—** |
-| 🌳 **Tree** | **—** |
-| 🌲 **Binary Tree** | **—** |
-| 🌿 **Binary Search Tree** | **—** |
-| 🕸️ **Graph** | **—** |
-| 🔵 **Breadth-First Search** | **—** |
-| 🟣 **Depth-First Search** | **—** |
-| 🔗 **Union Find** | **—** |
-| 🧩 **Dynamic Programming** | **—** |
-| 🎯 **Greedy** | **—** |
-| ↩️ **Backtracking** | **—** |
-| 🔡 **Trie** | **—** |
-| 💡 **Bit Manipulation** | **—** |
+|:--|--:|
+| 📦 Array | **107** |
+| 🔤 String | **51** |
+| #️⃣ Hash Table | **39** |
+| ➗ Math | **33** |
+| 🔃 Sorting | **23** |
+| 👉 Two Pointers | **28** |
+| 🪟 Sliding Window | **5** |
+| ➕ Prefix Sum | **0** |
+| 🔎 Binary Search | **19** |
+| 🔗 Linked List | **23** |
+| 📚 Stack | **12** |
+| 🚶 Queue | **0** |
+| ⛰️ Heap (Priority Queue) | **0** |
+| 🌳 Tree | **27** |
+| 🌲 Binary Tree | **27** |
+| 🌿 Binary Search Tree | **0** |
+| 🕸️ Graph | **0** |
+| 🔵 Breadth-First Search | **22** |
+| 🟣 Depth-First Search | **23** |
+| 🔗 Union Find | **0** |
+| 🧩 Dynamic Programming | **41** |
+| 🎯 Greedy | **15** |
+| ↩️ Backtracking | **20** |
+| 🔡 Trie | **4** |
+| 💡 Bit Manipulation | **11** |
 <!-- TOPIC_STATS_END -->
 
 > 🤖 Topic statistics are automatically maintained by the repository's statistics workflow.
