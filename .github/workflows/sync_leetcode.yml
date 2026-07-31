@@ -11,12 +11,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Sync LeetCode Solutions
-        uses: joshcai/leetcode-sync@v1.7
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          github-token: ${{ github.token }}
-          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: solutions
-          verbose: true
-          commit-header: "[LeetCode]"
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Sync Solutions
+        run: python .github/scripts/sync_leetcode.py
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+
+      - name: Commit
+        run: |
+          git config --global user.name github-actions[bot]
+          git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+          git add .
+
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "[LeetCode] Auto Sync"
+            git push
+          fi
