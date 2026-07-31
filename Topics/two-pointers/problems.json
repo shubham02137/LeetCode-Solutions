@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-31T09:34:18.967Z",
+  "updatedAt": "2026-07-31T09:34:55.718Z",
   "problems": [
+    {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "problemName": "0151-reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "folderPath": "0151-reverse-words-in-a-string/",
+      "readmePath": "0151-reverse-words-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0151-reverse-words-in-a-string.java",
+          "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.java",
+          "sha": "d488a3352176e8165e729fe0d7687ba34de73a6d",
+          "lastSyncedAt": "2026-07-31T09:34:55.718Z"
+        }
+      ]
+    },
     {
       "frontendId": "160",
       "title": "Intersection of Two Linked Lists",
