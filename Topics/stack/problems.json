@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-07-31T09:31:33.378Z",
+  "updatedAt": "2026-07-31T09:34:40.265Z",
   "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0155-min-stack.java",
+          "path": "0155-min-stack/0155-min-stack.java",
+          "sha": "85341a188b2cdef5846f535be6c8d39989a3e060",
+          "lastSyncedAt": "2026-07-31T09:34:40.265Z"
+        }
+      ]
+    },
     {
       "frontendId": "173",
       "title": "Binary Search Tree Iterator",
