@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-31T09:33:12.724Z",
+  "updatedAt": "2026-07-31T09:33:22.030Z",
   "problems": [
     {
       "frontendId": "166",
@@ -63,6 +63,26 @@
           "path": "0171-excel-sheet-column-number/0171-excel-sheet-column-number.java",
           "sha": "cd0646637a50c374b8db7c6e51fedb10b393f959",
           "lastSyncedAt": "2026-07-31T09:32:06.969Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.java",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.java",
+          "sha": "21b621744e281a32e81d5445ec5999675fd82449",
+          "lastSyncedAt": "2026-07-31T09:33:22.030Z"
         }
       ]
     },
