@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-31T09:33:12.724Z",
+  "updatedAt": "2026-07-31T09:33:22.030Z",
   "problems": [
     {
       "frontendId": "166",
@@ -83,6 +83,26 @@
           "path": "0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.java",
           "sha": "4c10cad2d0b3621d2101f6c0344b5a63c70da4e6",
           "lastSyncedAt": "2026-07-31T09:31:58.879Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.java",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.java",
+          "sha": "21b621744e281a32e81d5445ec5999675fd82449",
+          "lastSyncedAt": "2026-07-31T09:33:22.030Z"
         }
       ]
     }
