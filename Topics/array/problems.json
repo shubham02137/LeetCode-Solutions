@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-31T09:33:54.546Z",
+  "updatedAt": "2026-07-31T09:34:10.879Z",
   "problems": [
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "f7ac719d2b5810502c1b800dd9272d8a89bda964",
+          "lastSyncedAt": "2026-07-31T09:34:10.879Z"
+        }
+      ]
+    },
     {
       "frontendId": "164",
       "title": "Maximum Gap",
