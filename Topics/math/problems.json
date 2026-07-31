@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-31T09:32:52.952Z",
+  "updatedAt": "2026-07-31T09:33:12.724Z",
   "problems": [
+    {
+      "frontendId": "166",
+      "title": "Fraction to Recurring Decimal",
+      "slug": "fraction-to-recurring-decimal",
+      "problemName": "0166-fraction-to-recurring-decimal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+      "folderPath": "0166-fraction-to-recurring-decimal/",
+      "readmePath": "0166-fraction-to-recurring-decimal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0166-fraction-to-recurring-decimal.java",
+          "path": "0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.java",
+          "sha": "6cc1215668ecb549743b9adf48d2cabfd239b472",
+          "lastSyncedAt": "2026-07-31T09:33:12.724Z"
+        }
+      ]
+    },
     {
       "frontendId": "168",
       "title": "Excel Sheet Column Title",
