@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-31T09:32:35.626Z",
+  "updatedAt": "2026-07-31T09:32:59.709Z",
   "problems": [
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.java",
+          "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
+          "sha": "b2e4cbcd60a5484c201d9dc8b00f4fbe604b33f9",
+          "lastSyncedAt": "2026-07-31T09:32:59.709Z"
+        }
+      ]
+    },
     {
       "frontendId": "169",
       "title": "Majority Element",
