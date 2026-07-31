@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-31T09:31:18.839Z",
+  "updatedAt": "2026-07-31T09:34:48.420Z",
   "problems": [
+    {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "problemName": "0152-maximum-product-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+      "folderPath": "0152-maximum-product-subarray/",
+      "readmePath": "0152-maximum-product-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0152-maximum-product-subarray.java",
+          "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.java",
+          "sha": "4ea92cf5b1d4f9c8a8a9af2d00044f177b91f561",
+          "lastSyncedAt": "2026-07-31T09:34:48.420Z"
+        }
+      ]
+    },
     {
       "frontendId": "174",
       "title": "Dungeon Game",
