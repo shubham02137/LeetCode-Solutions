@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-01T08:56:03.563Z",
+  "updatedAt": "2026-08-01T08:56:17.028Z",
   "problems": [
     {
       "frontendId": "166",
@@ -63,6 +63,26 @@
           "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.java",
           "sha": "e2160c317ed10359d66d4a52997fb87680a0a1d7",
           "lastSyncedAt": "2026-08-01T08:55:22.466Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.java",
+          "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.java",
+          "sha": "052ca19f77395e8f43c8af7e9e84e81906a5c3db",
+          "lastSyncedAt": "2026-08-01T08:56:17.028Z"
         }
       ]
     }
