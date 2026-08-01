@@ -666,7 +666,7 @@ Engineering Intuition
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 5 | 14 | 2 |
+| 22 | 5 | 15 | 2 |
 
 ## Activity
 
@@ -681,26 +681,26 @@ Engineering Intuition
 | 2026-07-29 | 1 |
 | 2026-07-30 | 5 |
 | 2026-07-31 | 5 |
-| 2026-08-01 | 1 |
+| 2026-08-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 9 | 43% |
-| Array | 7 | 33% |
-| Math | 7 | 33% |
-| Hash Table | 5 | 24% |
-| Sorting | 4 | 19% |
-| Two Pointers | 4 | 19% |
+| String | 9 | 41% |
+| Array | 7 | 32% |
+| Math | 7 | 32% |
+| Hash Table | 5 | 23% |
+| Sorting | 4 | 18% |
+| Two Pointers | 4 | 18% |
 | Counting | 3 | 14% |
 | Stack | 3 | 14% |
-| Binary Search | 2 | 10% |
-| Design | 2 | 10% |
+| Binary Search | 2 | 9% |
+| Database | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Database](Topics/database/) | 1 |
+| [Database](Topics/database/) | 2 |
 <!---LeetHub Summary End-->
