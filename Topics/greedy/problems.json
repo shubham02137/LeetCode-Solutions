@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-01T08:55:22.466Z",
+  "updatedAt": "2026-08-01T08:56:09.921Z",
   "problems": [
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.java",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.java",
+          "sha": "21b621744e281a32e81d5445ec5999675fd82449",
+          "lastSyncedAt": "2026-08-01T08:56:09.921Z"
+        }
+      ]
+    },
     {
       "frontendId": "3016",
       "title": "Minimum Number of Pushes to Type Word II",
