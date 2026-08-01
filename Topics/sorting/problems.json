@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-01T08:55:22.466Z",
+  "updatedAt": "2026-08-01T08:55:38.856Z",
   "problems": [
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0169-majority-element.java",
+          "path": "0169-majority-element/0169-majority-element.java",
+          "sha": "5ec9f957e5efc833b4bb1b77e4ba663d618c9965",
+          "lastSyncedAt": "2026-08-01T08:55:38.856Z"
+        }
+      ]
+    },
     {
       "frontendId": "3016",
       "title": "Minimum Number of Pushes to Type Word II",
