@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search-tree",
+    "name": "Binary Search Tree"
+  },
+  "updatedAt": "2026-08-01T08:54:50.705Z",
+  "problems": [
+    {
+      "frontendId": "173",
+      "title": "Binary Search Tree Iterator",
+      "slug": "binary-search-tree-iterator",
+      "problemName": "0173-binary-search-tree-iterator",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+      "folderPath": "0173-binary-search-tree-iterator/",
+      "readmePath": "0173-binary-search-tree-iterator/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0173-binary-search-tree-iterator.java",
+          "path": "0173-binary-search-tree-iterator/0173-binary-search-tree-iterator.java",
+          "sha": "5774017e20d4834b62fcb4aebf0f4752dde63b71",
+          "lastSyncedAt": "2026-08-01T08:54:50.705Z"
+        }
+      ]
+    }
+  ]
+}
