@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-08-01T08:55:16.657Z",
+  "problems": [
+    {
+      "frontendId": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "problemName": "0171-excel-sheet-column-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
+      "folderPath": "0171-excel-sheet-column-number/",
+      "readmePath": "0171-excel-sheet-column-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0171-excel-sheet-column-number.java",
+          "path": "0171-excel-sheet-column-number/0171-excel-sheet-column-number.java",
+          "sha": "cd0646637a50c374b8db7c6e51fedb10b393f959",
+          "lastSyncedAt": "2026-08-01T08:55:16.657Z"
+        }
+      ]
+    }
+  ]
+}
