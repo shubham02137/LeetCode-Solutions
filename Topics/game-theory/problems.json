@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "game-theory",
+    "name": "Game Theory"
+  },
+  "updatedAt": "2026-08-01T08:54:24.790Z",
+  "problems": [
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "0486-predict-the-winner/",
+      "readmePath": "0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0486-predict-the-winner.java",
+          "path": "0486-predict-the-winner/0486-predict-the-winner.java",
+          "sha": "a6be2f2422672d7e50f5c0fddfdcd21ac9270729",
+          "lastSyncedAt": "2026-08-01T08:54:24.790Z"
+        }
+      ]
+    }
+  ]
+}
