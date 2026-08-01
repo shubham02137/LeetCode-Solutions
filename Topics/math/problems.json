@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-01T08:54:24.790Z",
+  "updatedAt": "2026-08-01T08:55:13.747Z",
   "problems": [
+    {
+      "frontendId": "172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "problemName": "0172-factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "folderPath": "0172-factorial-trailing-zeroes/",
+      "readmePath": "0172-factorial-trailing-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0172-factorial-trailing-zeroes.java",
+          "path": "0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.java",
+          "sha": "4c10cad2d0b3621d2101f6c0344b5a63c70da4e6",
+          "lastSyncedAt": "2026-08-01T08:55:13.747Z"
+        }
+      ]
+    },
     {
       "frontendId": "486",
       "title": "Predict the Winner",
