@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-01T08:55:54.381Z",
+  "updatedAt": "2026-08-01T08:56:26.498Z",
   "problems": [
+    {
+      "frontendId": "165",
+      "title": "Compare Version Numbers",
+      "slug": "compare-version-numbers",
+      "problemName": "0165-compare-version-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/compare-version-numbers/",
+      "folderPath": "0165-compare-version-numbers/",
+      "readmePath": "0165-compare-version-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0165-compare-version-numbers.java",
+          "path": "0165-compare-version-numbers/0165-compare-version-numbers.java",
+          "sha": "b390e03354396b968992c4fed918dbd44fa0c970",
+          "lastSyncedAt": "2026-08-01T08:56:26.498Z"
+        }
+      ]
+    },
     {
       "frontendId": "167",
       "title": "Two Sum II - Input Array Is Sorted",
