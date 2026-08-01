@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bucket-sort",
+    "name": "Bucket Sort"
+  },
+  "updatedAt": "2026-08-01T08:56:31.674Z",
+  "problems": [
+    {
+      "frontendId": "164",
+      "title": "Maximum Gap",
+      "slug": "maximum-gap",
+      "problemName": "0164-maximum-gap",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-gap/",
+      "folderPath": "0164-maximum-gap/",
+      "readmePath": "0164-maximum-gap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0164-maximum-gap.java",
+          "path": "0164-maximum-gap/0164-maximum-gap.java",
+          "sha": "241a1fdd465b2dd408b2f04c5f2a5380b4639c36",
+          "lastSyncedAt": "2026-08-01T08:56:31.674Z"
+        }
+      ]
+    }
+  ]
+}
