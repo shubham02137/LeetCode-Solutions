@@ -660,3 +660,47 @@ Engineering Intuition
 ⭐ **One problem at a time. One pattern at a time. One step closer.**
 
 </div>
+
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 21 | 5 | 14 | 2 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 6 days | 6 days | 6 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-07-27 | 4 |
+| 2026-07-28 | 5 |
+| 2026-07-29 | 1 |
+| 2026-07-30 | 5 |
+| 2026-07-31 | 5 |
+| 2026-08-01 | 1 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| String | 9 | 43% |
+| Array | 7 | 33% |
+| Math | 7 | 33% |
+| Hash Table | 5 | 24% |
+| Sorting | 4 | 19% |
+| Two Pointers | 4 | 19% |
+| Counting | 3 | 14% |
+| Stack | 3 | 14% |
+| Binary Search | 2 | 10% |
+| Design | 2 | 10% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Database](Topics/database/) | 1 |
+<!---LeetHub Summary End-->
