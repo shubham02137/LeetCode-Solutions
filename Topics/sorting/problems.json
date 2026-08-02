@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-01T08:56:31.674Z",
+  "updatedAt": "2026-08-02T06:00:04.371Z",
   "problems": [
     {
       "frontendId": "164",
@@ -43,6 +43,26 @@
           "path": "0169-majority-element/0169-majority-element.java",
           "sha": "5ec9f957e5efc833b4bb1b77e4ba663d618c9965",
           "lastSyncedAt": "2026-08-01T08:55:38.856Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0179-largest-number.java",
+          "path": "0179-largest-number/0179-largest-number.java",
+          "sha": "f56b678e897106075bd746edea96f6fa37ca1060",
+          "lastSyncedAt": "2026-08-02T06:00:04.371Z"
         }
       ]
     },
