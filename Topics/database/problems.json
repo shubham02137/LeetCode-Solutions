@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-01T08:54:18.129Z",
+  "updatedAt": "2026-08-02T06:01:35.283Z",
   "problems": [
     {
       "frontendId": "175",
@@ -83,6 +83,26 @@
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "4042b87b191b6cadb96e00bc5d6a62d46093da81",
           "lastSyncedAt": "2026-08-01T08:54:05.473Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "180",
+      "title": "Consecutive Numbers",
+      "slug": "consecutive-numbers",
+      "problemName": "0180-consecutive-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers/",
+      "folderPath": "0180-consecutive-numbers/",
+      "readmePath": "0180-consecutive-numbers/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0180-consecutive-numbers.sql",
+          "path": "0180-consecutive-numbers/0180-consecutive-numbers.sql",
+          "sha": "7c5ae93bd05ce3f359ede3e4cd2085164ee03710",
+          "lastSyncedAt": "2026-08-02T06:01:35.283Z"
         }
       ]
     }
