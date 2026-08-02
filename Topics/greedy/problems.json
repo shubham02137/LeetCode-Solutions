@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-01T08:56:09.921Z",
+  "updatedAt": "2026-08-02T06:00:04.371Z",
   "problems": [
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0179-largest-number.java",
+          "path": "0179-largest-number/0179-largest-number.java",
+          "sha": "f56b678e897106075bd746edea96f6fa37ca1060",
+          "lastSyncedAt": "2026-08-02T06:00:04.371Z"
+        }
+      ]
+    },
     {
       "frontendId": "3014",
       "title": "Minimum Number of Pushes to Type Word I",
