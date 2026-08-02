@@ -666,13 +666,13 @@ Engineering Intuition
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 6 | 12 | 2 |
+| 22 | 6 | 14 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 5 |
+| 6 days | 6 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -681,27 +681,28 @@ Engineering Intuition
 | 2026-07-30 | 5 |
 | 2026-07-31 | 5 |
 | 2026-08-01 | 5 |
+| 2026-08-02 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 7 | 35% |
-| String | 7 | 35% |
-| Array | 6 | 30% |
-| Hash Table | 5 | 25% |
-| Database | 4 | 20% |
-| Counting | 3 | 15% |
-| Sorting | 3 | 15% |
-| Two Pointers | 3 | 15% |
-| Binary Search | 2 | 10% |
-| Dynamic Programming | 2 | 10% |
+| Array | 8 | 36% |
+| Math | 8 | 36% |
+| String | 8 | 36% |
+| Hash Table | 5 | 23% |
+| Database | 4 | 18% |
+| Sorting | 4 | 18% |
+| Counting | 3 | 14% |
+| Dynamic Programming | 3 | 14% |
+| Greedy | 3 | 14% |
+| Two Pointers | 3 | 14% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 8 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -711,19 +712,19 @@ Engineering Intuition
 | [Database](Topics/database/) | 4 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
-| [Game Theory](Topics/game-theory/) | 1 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Game Theory](Topics/game-theory/) | 2 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
