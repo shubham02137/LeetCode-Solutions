@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-02T05:58:26.326Z",
+  "updatedAt": "2026-08-02T06:00:04.371Z",
   "problems": [
     {
       "frontendId": "162",
@@ -103,6 +103,26 @@
           "path": "0174-dungeon-game/0174-dungeon-game.java",
           "sha": "9c50ae0fa13cc395c2d3cc652cfb763e746e1ede",
           "lastSyncedAt": "2026-08-01T08:54:42.457Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0179-largest-number.java",
+          "path": "0179-largest-number/0179-largest-number.java",
+          "sha": "f56b678e897106075bd746edea96f6fa37ca1060",
+          "lastSyncedAt": "2026-08-02T06:00:04.371Z"
         }
       ]
     },
