@@ -666,7 +666,7 @@ Engineering Intuition
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 7 | 15 | 2 |
+| 25 | 8 | 15 | 2 |
 
 ## Activity
 
@@ -681,22 +681,22 @@ Engineering Intuition
 | 2026-07-30 | 5 |
 | 2026-07-31 | 5 |
 | 2026-08-01 | 5 |
-| 2026-08-02 | 4 |
+| 2026-08-02 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 33% |
-| Math | 8 | 33% |
-| String | 8 | 33% |
-| Database | 6 | 25% |
-| Hash Table | 5 | 21% |
-| Sorting | 4 | 17% |
-| Counting | 3 | 13% |
-| Dynamic Programming | 3 | 13% |
-| Greedy | 3 | 13% |
-| Two Pointers | 3 | 13% |
+| Array | 8 | 32% |
+| Math | 8 | 32% |
+| String | 8 | 32% |
+| Database | 7 | 28% |
+| Hash Table | 5 | 20% |
+| Sorting | 4 | 16% |
+| Counting | 3 | 12% |
+| Dynamic Programming | 3 | 12% |
+| Greedy | 3 | 12% |
+| Two Pointers | 3 | 12% |
 
 ## Topics
 
@@ -709,7 +709,7 @@ Engineering Intuition
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 3 |
-| [Database](Topics/database/) | 6 |
+| [Database](Topics/database/) | 7 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
