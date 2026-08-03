@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-03T16:41:46.162Z",
+  "updatedAt": "2026-08-03T16:41:49.062Z",
   "problems": [
     {
       "frontendId": "175",
@@ -102,7 +102,7 @@
           "filename": "0180-consecutive-numbers.sql",
           "path": "0180-consecutive-numbers/0180-consecutive-numbers.sql",
           "sha": "7c5ae93bd05ce3f359ede3e4cd2085164ee03710",
-          "lastSyncedAt": "2026-08-02T06:01:35.283Z"
+          "lastSyncedAt": "2026-08-03T16:41:49.062Z"
         }
       ]
     },
