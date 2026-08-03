@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-01T08:56:47.335Z",
+  "updatedAt": "2026-08-03T16:37:40.859Z",
   "problems": [
     {
       "frontendId": "160",
@@ -63,6 +63,26 @@
           "path": "0169-majority-element/0169-majority-element.java",
           "sha": "5ec9f957e5efc833b4bb1b77e4ba663d618c9965",
           "lastSyncedAt": "2026-08-01T08:55:38.856Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "187",
+      "title": "Repeated DNA Sequences",
+      "slug": "repeated-dna-sequences",
+      "problemName": "0187-repeated-dna-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+      "folderPath": "0187-repeated-dna-sequences/",
+      "readmePath": "0187-repeated-dna-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0187-repeated-dna-sequences.java",
+          "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.java",
+          "sha": "d9b49f9ca563f765df9a3e1d4e30660bf8adf826",
+          "lastSyncedAt": "2026-08-03T16:37:40.859Z"
         }
       ]
     },
