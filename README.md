@@ -666,13 +666,13 @@ Engineering Intuition
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 8 | 15 | 2 |
+| 27 | 8 | 16 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 6 |
+| 7 days | 7 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -682,44 +682,46 @@ Engineering Intuition
 | 2026-07-31 | 5 |
 | 2026-08-01 | 5 |
 | 2026-08-02 | 5 |
+| 2026-08-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 8 | 32% |
-| Math | 8 | 32% |
-| String | 8 | 32% |
-| Database | 7 | 28% |
-| Hash Table | 5 | 20% |
-| Sorting | 4 | 16% |
-| Counting | 3 | 12% |
-| Dynamic Programming | 3 | 12% |
-| Greedy | 3 | 12% |
-| Two Pointers | 3 | 12% |
+| Array | 9 | 33% |
+| Math | 9 | 33% |
+| Database | 8 | 30% |
+| String | 8 | 30% |
+| Hash Table | 5 | 19% |
+| Dynamic Programming | 4 | 15% |
+| Sorting | 4 | 15% |
+| Counting | 3 | 11% |
+| Game Theory | 3 | 11% |
+| Greedy | 3 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 9 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 3 |
-| [Database](Topics/database/) | 7 |
+| [Database](Topics/database/) | 8 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
-| [Game Theory](Topics/game-theory/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Game Theory](Topics/game-theory/) | 3 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
+| [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
@@ -727,4 +729,5 @@ Engineering Intuition
 | [String](Topics/string/) | 8 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
