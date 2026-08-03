@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-03T16:41:14.828Z",
+  "updatedAt": "2026-08-03T16:41:19.228Z",
   "problems": [
     {
       "frontendId": "175",
@@ -162,7 +162,7 @@
           "filename": "0184-department-highest-salary.sql",
           "path": "0184-department-highest-salary/0184-department-highest-salary.sql",
           "sha": "67d9e48b29c311f859e2e9415b132bf4f66c6478",
-          "lastSyncedAt": "2026-08-03T16:34:38.246Z"
+          "lastSyncedAt": "2026-08-03T16:41:19.228Z"
         }
       ]
     },
