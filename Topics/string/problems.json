@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-02T06:00:04.371Z",
+  "updatedAt": "2026-08-03T16:37:40.859Z",
   "problems": [
     {
       "frontendId": "165",
@@ -103,6 +103,26 @@
           "path": "0179-largest-number/0179-largest-number.java",
           "sha": "f56b678e897106075bd746edea96f6fa37ca1060",
           "lastSyncedAt": "2026-08-02T06:00:04.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "187",
+      "title": "Repeated DNA Sequences",
+      "slug": "repeated-dna-sequences",
+      "problemName": "0187-repeated-dna-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+      "folderPath": "0187-repeated-dna-sequences/",
+      "readmePath": "0187-repeated-dna-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0187-repeated-dna-sequences.java",
+          "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.java",
+          "sha": "d9b49f9ca563f765df9a3e1d4e30660bf8adf826",
+          "lastSyncedAt": "2026-08-03T16:37:40.859Z"
         }
       ]
     },
