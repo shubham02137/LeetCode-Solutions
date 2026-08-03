@@ -4,8 +4,28 @@
     "slug": "minimax-algorithm",
     "name": "Minimax"
   },
-  "updatedAt": "2026-08-03T16:42:03.148Z",
+  "updatedAt": "2026-08-03T16:42:28.924Z",
   "problems": [
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "0486-predict-the-winner/",
+      "readmePath": "0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0486-predict-the-winner.java",
+          "path": "0486-predict-the-winner/0486-predict-the-winner.java",
+          "sha": "a6be2f2422672d7e50f5c0fddfdcd21ac9270729",
+          "lastSyncedAt": "2026-08-03T16:42:28.924Z"
+        }
+      ]
+    },
     {
       "frontendId": "877",
       "title": "Stone Game",
