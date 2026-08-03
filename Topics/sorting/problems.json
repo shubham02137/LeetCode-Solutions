@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-03T16:41:52.858Z",
+  "updatedAt": "2026-08-03T16:43:26.174Z",
   "problems": [
     {
       "frontendId": "164",
@@ -82,7 +82,7 @@
           "filename": "3016-minimum-number-of-pushes-to-type-word-ii.java",
           "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.java",
           "sha": "e2160c317ed10359d66d4a52997fb87680a0a1d7",
-          "lastSyncedAt": "2026-08-01T08:55:22.466Z"
+          "lastSyncedAt": "2026-08-03T16:43:26.174Z"
         }
       ]
     }
