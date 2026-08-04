@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-04T15:49:56.696Z",
+  "updatedAt": "2026-08-04T15:50:04.476Z",
   "problems": [
     {
       "frontendId": "169",
@@ -42,7 +42,7 @@
           "filename": "0190-reverse-bits.java",
           "path": "0190-reverse-bits/0190-reverse-bits.java",
           "sha": "b26e9d2c9eee07270b5f56c92a1bc5cb6ddaaf53",
-          "lastSyncedAt": "2026-08-04T15:46:17.578Z"
+          "lastSyncedAt": "2026-08-04T15:50:04.476Z"
         }
       ]
     },
