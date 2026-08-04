@@ -666,13 +666,13 @@ Engineering Intuition
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 5 | 12 | 3 |
+| 24 | 7 | 13 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 4 |
+| 5 days | 5 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -680,57 +680,58 @@ Engineering Intuition
 | 2026-08-01 | 5 |
 | 2026-08-02 | 5 |
 | 2026-08-03 | 5 |
+| 2026-08-04 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 10 | 50% |
-| Array | 5 | 25% |
-| Math | 5 | 25% |
-| Dynamic Programming | 4 | 20% |
-| String | 4 | 20% |
-| Game Theory | 3 | 15% |
-| Minimax | 3 | 15% |
-| Zero-Sum Game | 3 | 15% |
-| Greedy | 2 | 10% |
-| Hash Table | 2 | 10% |
+| Database | 10 | 42% |
+| Array | 8 | 33% |
+| Math | 6 | 25% |
+| Dynamic Programming | 5 | 21% |
+| String | 4 | 17% |
+| Game Theory | 3 | 13% |
+| Hash Table | 3 | 13% |
+| Minimax | 3 | 13% |
+| Sorting | 3 | 13% |
+| Zero-Sum Game | 3 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 9 |
+| [Array](Topics/array/) | 12 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Database](Topics/database/) | 10 |
 | [Design](Topics/design/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 3 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Rolling Hash](Topics/rolling-hash/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 9 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 3 |
 <!---LeetHub Summary End-->
