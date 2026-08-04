@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-03T16:43:26.174Z",
+  "updatedAt": "2026-08-04T15:41:04.244Z",
   "problems": [
     {
       "frontendId": "164",
@@ -83,6 +83,26 @@
           "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.java",
           "sha": "e2160c317ed10359d66d4a52997fb87680a0a1d7",
           "lastSyncedAt": "2026-08-03T16:43:26.174Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3731-find-missing-elements.java",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.java",
+          "sha": "46d922f0fe44fbd158ceb6a6d8aded04f634634d",
+          "lastSyncedAt": "2026-08-04T15:41:04.244Z"
         }
       ]
     }
