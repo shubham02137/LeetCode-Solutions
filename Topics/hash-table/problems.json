@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-04T15:44:35.796Z",
+  "updatedAt": "2026-08-04T15:50:27.238Z",
   "problems": [
     {
       "frontendId": "160",
@@ -142,7 +142,7 @@
           "filename": "3731-find-missing-elements.java",
           "path": "3731-find-missing-elements/3731-find-missing-elements.java",
           "sha": "46d922f0fe44fbd158ceb6a6d8aded04f634634d",
-          "lastSyncedAt": "2026-08-04T15:44:28.145Z"
+          "lastSyncedAt": "2026-08-04T15:50:27.238Z"
         }
       ]
     }
