@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-04T15:44:35.796Z",
+  "updatedAt": "2026-08-04T15:46:17.578Z",
   "problems": [
     {
       "frontendId": "187",
@@ -23,6 +23,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.java",
           "sha": "d9b49f9ca563f765df9a3e1d4e30660bf8adf826",
           "lastSyncedAt": "2026-08-04T15:44:35.796Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0190-reverse-bits.java",
+          "path": "0190-reverse-bits/0190-reverse-bits.java",
+          "sha": "b26e9d2c9eee07270b5f56c92a1bc5cb6ddaaf53",
+          "lastSyncedAt": "2026-08-04T15:46:17.578Z"
         }
       ]
     }
