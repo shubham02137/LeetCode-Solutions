@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-03T16:42:46.839Z",
+  "updatedAt": "2026-08-04T15:44:22.850Z",
   "problems": [
     {
       "frontendId": "174",
@@ -23,6 +23,26 @@
           "path": "0174-dungeon-game/0174-dungeon-game.java",
           "sha": "9c50ae0fa13cc395c2d3cc652cfb763e746e1ede",
           "lastSyncedAt": "2026-08-03T16:42:46.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "188",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "problemName": "0188-best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "folderPath": "0188-best-time-to-buy-and-sell-stock-iv/",
+      "readmePath": "0188-best-time-to-buy-and-sell-stock-iv/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0188-best-time-to-buy-and-sell-stock-iv.java",
+          "path": "0188-best-time-to-buy-and-sell-stock-iv/0188-best-time-to-buy-and-sell-stock-iv.java",
+          "sha": "34f30dfb03edea79923dcb7e6bc9324c8f1b0459",
+          "lastSyncedAt": "2026-08-04T15:44:22.850Z"
         }
       ]
     },
