@@ -4,7 +4,7 @@
     "slug": "boyer-moore-string-search-algorithm",
     "name": "Boyer–Moore String-Search Algorithm"
   },
-  "updatedAt": "2026-08-03T16:40:48.630Z",
+  "updatedAt": "2026-08-04T15:50:37.368Z",
   "problems": [
     {
       "frontendId": "187",
@@ -22,7 +22,7 @@
           "filename": "0187-repeated-dna-sequences.java",
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.java",
           "sha": "d9b49f9ca563f765df9a3e1d4e30660bf8adf826",
-          "lastSyncedAt": "2026-08-03T16:40:48.630Z"
+          "lastSyncedAt": "2026-08-04T15:50:37.368Z"
         }
       ]
     }
