@@ -4,7 +4,7 @@
     "slug": "shell",
     "name": "Shell"
   },
-  "updatedAt": "2026-08-05T14:22:57.959Z",
+  "updatedAt": "2026-08-05T14:32:51.549Z",
   "problems": [
     {
       "frontendId": "192",
@@ -43,6 +43,26 @@
           "path": "0193-valid-phone-numbers/0193-valid-phone-numbers.sh",
           "sha": "9b22ede9dbb7ebb3d7302ca3c3c01ea81b456dcd",
           "lastSyncedAt": "2026-08-05T14:22:46.751Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "194",
+      "title": "Transpose File",
+      "slug": "transpose-file",
+      "problemName": "0194-transpose-file",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/transpose-file/",
+      "folderPath": "0194-transpose-file/",
+      "readmePath": "0194-transpose-file/README.md",
+      "solutions": [
+        {
+          "language": "Bash",
+          "extension": ".sh",
+          "filename": "0194-transpose-file.sh",
+          "path": "0194-transpose-file/0194-transpose-file.sh",
+          "sha": "cbba0d45fb635689c6b2b963bfaacf8799969b58",
+          "lastSyncedAt": "2026-08-05T14:32:51.549Z"
         }
       ]
     }
