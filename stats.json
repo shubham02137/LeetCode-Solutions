@@ -1,7 +1,7 @@
 {
   "username": "shubhamdevit",
-  "totalSolved": 258,
-  "easySolved": 63,
+  "totalSolved": 259,
+  "easySolved": 64,
   "mediumSolved": 148,
   "hardSolved": 47,
   "topics": {
@@ -29,7 +29,7 @@
     "Math": 44,
     "Design": 3,
     "Iterator": 1,
-    "Database": 10,
+    "Database": 11,
     "Game Theory": 3,
     "Rolling Hash": 1,
     "Backtracking": 20,

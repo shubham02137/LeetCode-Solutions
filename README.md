@@ -35,8 +35,8 @@ A real-time overview of my problem-solving progress on LeetCode.
 <!-- DASHBOARD_START -->
 | Metric | Solved |
 |:--|--:|
-| 🧩 **Total Problems** | **258** |
-| 🟢 Easy | **63** |
+| 🧩 **Total Problems** | **259** |
+| 🟢 Easy | **64** |
 | 🟡 Medium | **148** |
 | 🔴 Hard | **47** |
 <!-- DASHBOARD_END -->
