@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-05T14:24:40.844Z",
+  "updatedAt": "2026-08-05T14:24:45.590Z",
   "problems": [
+    {
+      "frontendId": "183",
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "problemName": "0183-customers-who-never-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customers-who-never-order/",
+      "folderPath": "0183-customers-who-never-order/",
+      "readmePath": "0183-customers-who-never-order/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0183-customers-who-never-order.sql",
+          "path": "0183-customers-who-never-order/0183-customers-who-never-order.sql",
+          "sha": "7261f2ccaa348e72a226e8ead02d1d23e3824e4c",
+          "lastSyncedAt": "2026-08-05T14:24:45.590Z"
+        }
+      ]
+    },
     {
       "frontendId": "184",
       "title": "Department Highest Salary",
