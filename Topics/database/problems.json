@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-05T14:24:34.592Z",
+  "updatedAt": "2026-08-05T14:24:40.844Z",
   "problems": [
+    {
+      "frontendId": "184",
+      "title": "Department Highest Salary",
+      "slug": "department-highest-salary",
+      "problemName": "0184-department-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/department-highest-salary/",
+      "folderPath": "0184-department-highest-salary/",
+      "readmePath": "0184-department-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0184-department-highest-salary.sql",
+          "path": "0184-department-highest-salary/0184-department-highest-salary.sql",
+          "sha": "67d9e48b29c311f859e2e9415b132bf4f66c6478",
+          "lastSyncedAt": "2026-08-05T14:24:40.844Z"
+        }
+      ]
+    },
     {
       "frontendId": "185",
       "title": "Department Top Three Salaries",
