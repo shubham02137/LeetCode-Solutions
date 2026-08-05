@@ -35,9 +35,9 @@ A real-time overview of my problem-solving progress on LeetCode.
 <!-- DASHBOARD_START -->
 | Metric | Solved |
 |:--|--:|
-| 🧩 **Total Problems** | **253** |
-| 🟢 Easy | **61** |
-| 🟡 Medium | **145** |
+| 🧩 **Total Problems** | **256** |
+| 🟢 Easy | **62** |
+| 🟡 Medium | **147** |
 | 🔴 Hard | **47** |
 <!-- DASHBOARD_END -->
 
@@ -100,8 +100,8 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 | 🌲 Binary Tree | **28** |
 | 🌿 Binary Search Tree | **0** |
 | 🕸️ Graph | **0** |
-| 🔵 Breadth-First Search | **22** |
-| 🟣 Depth-First Search | **23** |
+| 🔵 Breadth-First Search | **23** |
+| 🟣 Depth-First Search | **24** |
 | 🔗 Union Find | **0** |
 | 🧩 Dynamic Programming | **47** |
 | 🎯 Greedy | **18** |
