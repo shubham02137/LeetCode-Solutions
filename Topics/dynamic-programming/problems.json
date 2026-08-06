@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-06T04:06:40.623Z",
+  "updatedAt": "2026-08-06T04:07:35.852Z",
   "problems": [
+    {
+      "frontendId": "188",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "problemName": "0188-best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "folderPath": "0188-best-time-to-buy-and-sell-stock-iv/",
+      "readmePath": "0188-best-time-to-buy-and-sell-stock-iv/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0188-best-time-to-buy-and-sell-stock-iv.java",
+          "path": "0188-best-time-to-buy-and-sell-stock-iv/0188-best-time-to-buy-and-sell-stock-iv.java",
+          "sha": "34f30dfb03edea79923dcb7e6bc9324c8f1b0459",
+          "lastSyncedAt": "2026-08-06T04:07:35.852Z"
+        }
+      ]
+    },
     {
       "frontendId": "198",
       "title": "House Robber",
