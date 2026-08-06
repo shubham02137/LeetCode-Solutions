@@ -4,7 +4,7 @@
     "slug": "shell",
     "name": "Shell"
   },
-  "updatedAt": "2026-08-05T15:06:28.560Z",
+  "updatedAt": "2026-08-06T04:06:55.104Z",
   "problems": [
     {
       "frontendId": "194",
@@ -23,6 +23,26 @@
           "path": "0194-transpose-file/0194-transpose-file.sh",
           "sha": "cbba0d45fb635689c6b2b963bfaacf8799969b58",
           "lastSyncedAt": "2026-08-05T15:06:28.560Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "195",
+      "title": "Tenth Line",
+      "slug": "tenth-line",
+      "problemName": "0195-tenth-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/tenth-line/",
+      "folderPath": "0195-tenth-line/",
+      "readmePath": "0195-tenth-line/README.md",
+      "solutions": [
+        {
+          "language": "Bash",
+          "extension": ".sh",
+          "filename": "0195-tenth-line.sh",
+          "path": "0195-tenth-line/0195-tenth-line.sh",
+          "sha": "2acabc0ddc0a14d25c21ade74689390b9cdef0c4",
+          "lastSyncedAt": "2026-08-06T04:06:55.104Z"
         }
       ]
     }
