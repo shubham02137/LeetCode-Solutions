@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-06T04:07:35.852Z",
+  "updatedAt": "2026-08-06T04:07:39.750Z",
   "problems": [
     {
       "frontendId": "188",
@@ -83,6 +83,26 @@
           "path": "0200-number-of-islands/0200-number-of-islands.java",
           "sha": "b88ba56d1af75f1cd87dab829660377d30253fa6",
           "lastSyncedAt": "2026-08-06T04:06:08.849Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3731-find-missing-elements.java",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.java",
+          "sha": "46d922f0fe44fbd158ceb6a6d8aded04f634634d",
+          "lastSyncedAt": "2026-08-06T04:07:39.750Z"
         }
       ]
     }
