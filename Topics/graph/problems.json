@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "graph",
+    "name": "Graph Theory"
+  },
+  "updatedAt": "2026-08-06T04:07:06.982Z",
+  "problems": [
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3310-remove-methods-from-project.java",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.java",
+          "sha": "713358378a77b3d8d94a999b3635b0101cabf56f",
+          "lastSyncedAt": "2026-08-06T04:07:06.982Z"
+        }
+      ]
+    }
+  ]
+}
