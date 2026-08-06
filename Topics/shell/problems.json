@@ -4,8 +4,28 @@
     "slug": "shell",
     "name": "Shell"
   },
-  "updatedAt": "2026-08-06T04:06:58.787Z",
+  "updatedAt": "2026-08-06T04:07:01.862Z",
   "problems": [
+    {
+      "frontendId": "193",
+      "title": "Valid Phone Numbers",
+      "slug": "valid-phone-numbers",
+      "problemName": "0193-valid-phone-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-phone-numbers/",
+      "folderPath": "0193-valid-phone-numbers/",
+      "readmePath": "0193-valid-phone-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Bash",
+          "extension": ".sh",
+          "filename": "0193-valid-phone-numbers.sh",
+          "path": "0193-valid-phone-numbers/0193-valid-phone-numbers.sh",
+          "sha": "9b22ede9dbb7ebb3d7302ca3c3c01ea81b456dcd",
+          "lastSyncedAt": "2026-08-06T04:07:01.862Z"
+        }
+      ]
+    },
     {
       "frontendId": "194",
       "title": "Transpose File",
