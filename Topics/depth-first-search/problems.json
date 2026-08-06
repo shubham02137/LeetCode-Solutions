@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "depth-first-search",
+    "name": "Depth-First Search"
+  },
+  "updatedAt": "2026-08-06T04:06:08.849Z",
+  "problems": [
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0200-number-of-islands.java",
+          "path": "0200-number-of-islands/0200-number-of-islands.java",
+          "sha": "b88ba56d1af75f1cd87dab829660377d30253fa6",
+          "lastSyncedAt": "2026-08-06T04:06:08.849Z"
+        }
+      ]
+    }
+  ]
+}
