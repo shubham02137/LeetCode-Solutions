@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-08-06T03:59:41.829Z",
+  "problems": [
+    {
+      "frontendId": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "problemName": "3345-smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+      "folderPath": "3345-smallest-divisible-digit-product-i/",
+      "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3345-smallest-divisible-digit-product-i.java",
+          "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
+          "sha": "ec3946eed76d3dad2aa186512131a4e885c51de8",
+          "lastSyncedAt": "2026-08-06T03:59:41.829Z"
+        }
+      ]
+    }
+  ]
+}
