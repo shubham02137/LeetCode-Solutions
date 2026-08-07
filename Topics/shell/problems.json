@@ -4,7 +4,7 @@
     "slug": "shell",
     "name": "Shell"
   },
-  "updatedAt": "2026-08-06T04:07:04.386Z",
+  "updatedAt": "2026-08-07T16:39:56.179Z",
   "problems": [
     {
       "frontendId": "192",
@@ -82,7 +82,7 @@
           "filename": "0195-tenth-line.sh",
           "path": "0195-tenth-line/0195-tenth-line.sh",
           "sha": "2acabc0ddc0a14d25c21ade74689390b9cdef0c4",
-          "lastSyncedAt": "2026-08-06T04:06:55.104Z"
+          "lastSyncedAt": "2026-08-07T16:39:56.179Z"
         }
       ]
     }
