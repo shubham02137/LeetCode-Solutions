@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-06T04:07:49.885Z",
+  "updatedAt": "2026-08-07T16:34:08.894Z",
   "problems": [
     {
       "frontendId": "187",
@@ -63,6 +63,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.java",
           "sha": "d0ff90036d8d708bd586dbbc31e847cec428f422",
           "lastSyncedAt": "2026-08-06T04:07:14.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "201",
+      "title": "Bitwise AND of Numbers Range",
+      "slug": "bitwise-and-of-numbers-range",
+      "problemName": "0201-bitwise-and-of-numbers-range",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-and-of-numbers-range/",
+      "folderPath": "0201-bitwise-and-of-numbers-range/",
+      "readmePath": "0201-bitwise-and-of-numbers-range/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0201-bitwise-and-of-numbers-range.java",
+          "path": "0201-bitwise-and-of-numbers-range/0201-bitwise-and-of-numbers-range.java",
+          "sha": "3501eef7bdf06314875b28865d60b3c93d4828c7",
+          "lastSyncedAt": "2026-08-07T16:34:08.894Z"
         }
       ]
     }
