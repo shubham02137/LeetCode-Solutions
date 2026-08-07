@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-06T04:07:49.885Z",
+  "updatedAt": "2026-08-07T16:32:15.561Z",
   "problems": [
     {
       "frontendId": "187",
@@ -23,6 +23,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.java",
           "sha": "d9b49f9ca563f765df9a3e1d4e30660bf8adf826",
           "lastSyncedAt": "2026-08-06T04:07:49.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3348-smallest-divisible-digit-product-ii.java",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
+          "sha": "3c6b598092598a494644cbde591f0b525a259b31",
+          "lastSyncedAt": "2026-08-07T16:32:15.561Z"
         }
       ]
     }
