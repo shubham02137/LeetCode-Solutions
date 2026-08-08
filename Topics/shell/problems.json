@@ -4,7 +4,7 @@
     "slug": "shell",
     "name": "Shell"
   },
-  "updatedAt": "2026-08-08T14:31:37.869Z",
+  "updatedAt": "2026-08-08T14:31:40.456Z",
   "problems": [
     {
       "frontendId": "192",
@@ -42,7 +42,7 @@
           "filename": "0193-valid-phone-numbers.sh",
           "path": "0193-valid-phone-numbers/0193-valid-phone-numbers.sh",
           "sha": "9b22ede9dbb7ebb3d7302ca3c3c01ea81b456dcd",
-          "lastSyncedAt": "2026-08-07T16:40:09.053Z"
+          "lastSyncedAt": "2026-08-08T14:31:40.456Z"
         }
       ]
     },
