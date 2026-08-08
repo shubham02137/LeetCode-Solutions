@@ -4,7 +4,7 @@
     "slug": "shell",
     "name": "Shell"
   },
-  "updatedAt": "2026-08-08T14:31:34.614Z",
+  "updatedAt": "2026-08-08T14:31:37.869Z",
   "problems": [
     {
       "frontendId": "192",
@@ -62,7 +62,7 @@
           "filename": "0194-transpose-file.sh",
           "path": "0194-transpose-file/0194-transpose-file.sh",
           "sha": "cbba0d45fb635689c6b2b963bfaacf8799969b58",
-          "lastSyncedAt": "2026-08-07T16:40:02.291Z"
+          "lastSyncedAt": "2026-08-08T14:31:37.869Z"
         }
       ]
     },
