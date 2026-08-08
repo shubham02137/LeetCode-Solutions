@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-08T14:24:58.259Z",
+  "updatedAt": "2026-08-08T14:30:06.111Z",
   "problems": [
     {
       "frontendId": "189",
@@ -62,7 +62,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.java",
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.java",
           "sha": "d2cdfb8b828e7598fa43cdaee28d09be70e0eef8",
-          "lastSyncedAt": "2026-08-08T14:24:58.259Z"
+          "lastSyncedAt": "2026-08-08T14:30:06.111Z"
         }
       ]
     }
