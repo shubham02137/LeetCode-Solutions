@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-08T14:30:06.111Z",
+  "updatedAt": "2026-08-08T14:30:47.637Z",
   "problems": [
     {
       "frontendId": "3302",
@@ -42,7 +42,7 @@
           "filename": "3348-smallest-divisible-digit-product-ii.java",
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
           "sha": "3c6b598092598a494644cbde591f0b525a259b31",
-          "lastSyncedAt": "2026-08-07T16:38:52.061Z"
+          "lastSyncedAt": "2026-08-08T14:30:47.637Z"
         }
       ]
     }
