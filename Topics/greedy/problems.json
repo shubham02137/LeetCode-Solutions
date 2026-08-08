@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-07T16:38:52.061Z",
+  "updatedAt": "2026-08-08T14:30:06.111Z",
   "problems": [
+    {
+      "frontendId": "3302",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "slug": "find-the-lexicographically-smallest-valid-sequence",
+      "problemName": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/",
+      "folderPath": "3302-find-the-lexicographically-smallest-valid-sequence/",
+      "readmePath": "3302-find-the-lexicographically-smallest-valid-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3302-find-the-lexicographically-smallest-valid-sequence.java",
+          "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.java",
+          "sha": "d2cdfb8b828e7598fa43cdaee28d09be70e0eef8",
+          "lastSyncedAt": "2026-08-08T14:30:06.111Z"
+        }
+      ]
+    },
     {
       "frontendId": "3348",
       "title": "Smallest Divisible Digit Product II",
