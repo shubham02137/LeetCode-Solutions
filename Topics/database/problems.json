@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-07T16:39:52.917Z",
+  "updatedAt": "2026-08-08T14:31:23.567Z",
   "problems": [
     {
       "frontendId": "196",
@@ -42,7 +42,7 @@
           "filename": "0197-rising-temperature.sql",
           "path": "0197-rising-temperature/0197-rising-temperature.sql",
           "sha": "e924aa06c1b484bfd072d1a4897f2bf6346cb191",
-          "lastSyncedAt": "2026-08-07T16:39:40.014Z"
+          "lastSyncedAt": "2026-08-08T14:31:23.567Z"
         }
       ]
     }
