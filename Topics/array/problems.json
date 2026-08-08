@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-08T14:30:16.039Z",
+  "updatedAt": "2026-08-08T14:30:56.994Z",
   "problems": [
     {
       "frontendId": "188",
@@ -82,7 +82,7 @@
           "filename": "0200-number-of-islands.java",
           "path": "0200-number-of-islands/0200-number-of-islands.java",
           "sha": "b88ba56d1af75f1cd87dab829660377d30253fa6",
-          "lastSyncedAt": "2026-08-07T16:39:06.006Z"
+          "lastSyncedAt": "2026-08-08T14:30:56.994Z"
         }
       ]
     },
