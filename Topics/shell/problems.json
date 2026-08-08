@@ -4,7 +4,7 @@
     "slug": "shell",
     "name": "Shell"
   },
-  "updatedAt": "2026-08-08T14:31:40.456Z",
+  "updatedAt": "2026-08-08T14:31:42.817Z",
   "problems": [
     {
       "frontendId": "192",
@@ -22,7 +22,7 @@
           "filename": "0192-word-frequency.sh",
           "path": "0192-word-frequency/0192-word-frequency.sh",
           "sha": "ee21be9c4628f960432c2c69949fa3194d3c7f2f",
-          "lastSyncedAt": "2026-08-07T16:40:12.429Z"
+          "lastSyncedAt": "2026-08-08T14:31:42.817Z"
         }
       ]
     },
