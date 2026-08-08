@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-08T14:29:23.757Z",
+  "updatedAt": "2026-08-08T14:30:02.247Z",
   "problems": [
     {
       "frontendId": "187",
@@ -43,6 +43,26 @@
           "path": "0202-happy-number/0202-happy-number.java",
           "sha": "fedb85d08892ba79f8fb79372d8ca95700848c25",
           "lastSyncedAt": "2026-08-07T16:38:32.352Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "0205-isomorphic-strings/",
+      "readmePath": "0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0205-isomorphic-strings.java",
+          "path": "0205-isomorphic-strings/0205-isomorphic-strings.java",
+          "sha": "173367943a786ab31a8ec6b107a51193211ca181",
+          "lastSyncedAt": "2026-08-08T14:30:02.247Z"
         }
       ]
     },
