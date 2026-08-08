@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-07T16:38:18.557Z",
+  "updatedAt": "2026-08-08T14:29:54.182Z",
   "problems": [
     {
       "frontendId": "203",
@@ -23,6 +23,26 @@
           "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.java",
           "sha": "eaa71f9325e99969c942dd591d9f17bd109da57c",
           "lastSyncedAt": "2026-08-07T16:38:18.557Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0206-reverse-linked-list.java",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.java",
+          "sha": "3bcdafa64d240fe033a3a71e096f4889d26d1378",
+          "lastSyncedAt": "2026-08-08T14:29:54.182Z"
         }
       ]
     }
