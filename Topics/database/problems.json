@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-08T14:31:23.567Z",
+  "updatedAt": "2026-08-08T14:31:32.313Z",
   "problems": [
     {
       "frontendId": "196",
@@ -22,7 +22,7 @@
           "filename": "0196-delete-duplicate-emails.sql",
           "path": "0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
           "sha": "d91ef0c95dba2abfdc5c3e8d4a6339cb3e9392b5",
-          "lastSyncedAt": "2026-08-07T16:39:52.917Z"
+          "lastSyncedAt": "2026-08-08T14:31:32.313Z"
         }
       ]
     },
