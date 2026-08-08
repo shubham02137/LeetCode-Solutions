@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-07T16:40:49.968Z",
+  "updatedAt": "2026-08-08T14:30:16.039Z",
   "problems": [
     {
       "frontendId": "188",
@@ -102,7 +102,7 @@
           "filename": "0204-count-primes.java",
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "2b085f367e6ea244da8427593f102306adc6e3ac",
-          "lastSyncedAt": "2026-08-07T16:37:50.004Z"
+          "lastSyncedAt": "2026-08-08T14:30:16.039Z"
         }
       ]
     },
