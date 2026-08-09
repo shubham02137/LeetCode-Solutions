@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "minimax-algorithm",
+    "name": "Minimax"
+  },
+  "updatedAt": "2026-08-09T11:08:28.754Z",
+  "problems": [
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1140-stone-game-ii.java",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.java",
+          "sha": "3bf4323a5e4a29cb12ffa864dfca5796bff50f08",
+          "lastSyncedAt": "2026-08-09T11:08:28.754Z"
+        }
+      ]
+    }
+  ]
+}
