@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-08T14:31:18.595Z",
+  "updatedAt": "2026-08-09T11:08:28.754Z",
   "problems": [
     {
       "frontendId": "188",
@@ -43,6 +43,26 @@
           "path": "0198-house-robber/0198-house-robber.java",
           "sha": "c840a5bcb9608d3116a6cbc0cf4c33746eb557f3",
           "lastSyncedAt": "2026-08-08T14:31:18.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1140-stone-game-ii.java",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.java",
+          "sha": "3bf4323a5e4a29cb12ffa864dfca5796bff50f08",
+          "lastSyncedAt": "2026-08-09T11:08:28.754Z"
         }
       ]
     },
