@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-09T17:09:59.269Z",
+  "updatedAt": "2026-08-09T17:10:51.581Z",
   "problems": [
     {
       "frontendId": "207",
@@ -22,7 +22,7 @@
           "filename": "0207-course-schedule.java",
           "path": "0207-course-schedule/0207-course-schedule.java",
           "sha": "ae3fd2c6234c0caa59bb1ba75a16663f55b9d0fe",
-          "lastSyncedAt": "2026-08-08T14:29:37.167Z"
+          "lastSyncedAt": "2026-08-09T17:10:51.581Z"
         }
       ]
     },
