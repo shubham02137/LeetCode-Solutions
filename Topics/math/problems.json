@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-08T14:31:27.457Z",
+  "updatedAt": "2026-08-09T11:08:28.754Z",
   "problems": [
     {
       "frontendId": "189",
@@ -63,6 +63,26 @@
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "2b085f367e6ea244da8427593f102306adc6e3ac",
           "lastSyncedAt": "2026-08-08T14:30:16.039Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1140-stone-game-ii.java",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.java",
+          "sha": "3bf4323a5e4a29cb12ffa864dfca5796bff50f08",
+          "lastSyncedAt": "2026-08-09T11:08:28.754Z"
         }
       ]
     },
