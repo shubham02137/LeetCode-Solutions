@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-09T17:10:41.136Z",
+  "updatedAt": "2026-08-09T17:11:09.728Z",
   "problems": [
     {
       "frontendId": "187",
@@ -42,7 +42,7 @@
           "filename": "0205-isomorphic-strings.java",
           "path": "0205-isomorphic-strings/0205-isomorphic-strings.java",
           "sha": "173367943a786ab31a8ec6b107a51193211ca181",
-          "lastSyncedAt": "2026-08-08T14:30:02.247Z"
+          "lastSyncedAt": "2026-08-09T17:11:09.728Z"
         }
       ]
     },
