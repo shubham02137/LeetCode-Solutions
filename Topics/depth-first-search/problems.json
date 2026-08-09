@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-08T14:31:09.336Z",
+  "updatedAt": "2026-08-09T17:09:59.269Z",
   "problems": [
     {
       "frontendId": "199",
@@ -63,6 +63,26 @@
           "path": "0207-course-schedule/0207-course-schedule.java",
           "sha": "ae3fd2c6234c0caa59bb1ba75a16663f55b9d0fe",
           "lastSyncedAt": "2026-08-08T14:29:37.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0210-course-schedule-ii.java",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.java",
+          "sha": "81f00921fd20df416a25dd6f40fce409d82d7f91",
+          "lastSyncedAt": "2026-08-09T17:09:59.269Z"
         }
       ]
     },
