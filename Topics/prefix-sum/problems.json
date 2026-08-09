@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-09T11:08:28.754Z",
+  "updatedAt": "2026-08-09T17:10:12.395Z",
   "problems": [
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "0209-minimum-size-subarray-sum/",
+      "readmePath": "0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0209-minimum-size-subarray-sum.java",
+          "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
+          "sha": "4ae0a424a7a48f75937ec3178142eba130338010",
+          "lastSyncedAt": "2026-08-09T17:10:12.395Z"
+        }
+      ]
+    },
     {
       "frontendId": "1140",
       "title": "Stone Game II",
