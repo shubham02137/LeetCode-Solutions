@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-09T17:10:51.581Z",
+  "updatedAt": "2026-08-10T15:26:37.990Z",
   "problems": [
     {
       "frontendId": "199",
@@ -83,6 +83,26 @@
           "path": "0210-course-schedule-ii/0210-course-schedule-ii.java",
           "sha": "81f00921fd20df416a25dd6f40fce409d82d7f91",
           "lastSyncedAt": "2026-08-09T17:09:59.269Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "211",
+      "title": "Design Add and Search Words Data Structure",
+      "slug": "design-add-and-search-words-data-structure",
+      "problemName": "0211-design-add-and-search-words-data-structure",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+      "folderPath": "0211-design-add-and-search-words-data-structure/",
+      "readmePath": "0211-design-add-and-search-words-data-structure/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0211-design-add-and-search-words-data-structure.java",
+          "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.java",
+          "sha": "8876f7319d61e0b4290ddc9e481e9cd3d43d537c",
+          "lastSyncedAt": "2026-08-10T15:26:37.990Z"
         }
       ]
     },
