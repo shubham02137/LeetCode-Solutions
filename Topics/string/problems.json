@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-10T15:26:37.990Z",
+  "updatedAt": "2026-08-10T15:27:55.291Z",
   "problems": [
     {
       "frontendId": "187",
@@ -83,6 +83,26 @@
           "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.java",
           "sha": "8876f7319d61e0b4290ddc9e481e9cd3d43d537c",
           "lastSyncedAt": "2026-08-10T15:26:37.990Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "problemName": "0212-word-search-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+      "folderPath": "0212-word-search-ii/",
+      "readmePath": "0212-word-search-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0212-word-search-ii.java",
+          "path": "0212-word-search-ii/0212-word-search-ii.java",
+          "sha": "fef1ade9c1348426a8499e0b5219930a81deb6e1",
+          "lastSyncedAt": "2026-08-10T15:27:55.291Z"
         }
       ]
     },
