@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-09T17:11:31.458Z",
+  "updatedAt": "2026-08-10T15:27:55.291Z",
   "problems": [
     {
       "frontendId": "188",
@@ -123,6 +123,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
           "sha": "4ae0a424a7a48f75937ec3178142eba130338010",
           "lastSyncedAt": "2026-08-09T17:10:12.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "problemName": "0212-word-search-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+      "folderPath": "0212-word-search-ii/",
+      "readmePath": "0212-word-search-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0212-word-search-ii.java",
+          "path": "0212-word-search-ii/0212-word-search-ii.java",
+          "sha": "fef1ade9c1348426a8499e0b5219930a81deb6e1",
+          "lastSyncedAt": "2026-08-10T15:27:55.291Z"
         }
       ]
     },
