@@ -35,10 +35,10 @@ A real-time overview of my problem-solving progress on LeetCode.
 <!-- DASHBOARD_START -->
 | Metric | Solved |
 |:--|--:|
-| 🧩 **Total Problems** | **277** |
+| 🧩 **Total Problems** | **280** |
 | 🟢 Easy | **70** |
-| 🟡 Medium | **159** |
-| 🔴 Hard | **48** |
+| 🟡 Medium | **160** |
+| 🔴 Hard | **50** |
 <!-- DASHBOARD_END -->
 
 > ⚡ Dashboard statistics are automatically synchronized with my LeetCode profile using a custom Python statistics engine and GitHub Actions.
@@ -83,10 +83,10 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 <!-- TOPIC_STATS_START -->
 | Topic | Solved |
 |:--|--:|
-| 📦 Array | **127** |
-| 🔤 String | **66** |
+| 📦 Array | **128** |
+| 🔤 String | **68** |
 | #️⃣ Hash Table | **49** |
-| ➗ Math | **49** |
+| ➗ Math | **50** |
 | 🔃 Sorting | **30** |
 | 👉 Two Pointers | **35** |
 | 🪟 Sliding Window | **7** |
@@ -101,12 +101,12 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 | 🌿 Binary Search Tree | **0** |
 | 🕸️ Graph | **0** |
 | 🔵 Breadth-First Search | **27** |
-| 🟣 Depth-First Search | **28** |
+| 🟣 Depth-First Search | **29** |
 | 🔗 Union Find | **0** |
-| 🧩 Dynamic Programming | **50** |
+| 🧩 Dynamic Programming | **51** |
 | 🎯 Greedy | **20** |
-| ↩️ Backtracking | **21** |
-| 🔡 Trie | **5** |
+| ↩️ Backtracking | **22** |
+| 🔡 Trie | **7** |
 | 💡 Bit Manipulation | **15** |
 <!-- TOPIC_STATS_END -->
 
