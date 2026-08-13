@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T18:46:12.191Z",
+  "updatedAt": "2026-08-13T18:11:05.235Z",
   "problems": [
     {
       "frontendId": "188",
@@ -163,6 +163,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "3bf4323a5e4a29cb12ffa864dfca5796bff50f08",
           "lastSyncedAt": "2026-08-09T17:10:23.865Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2213-longest-substring-of-one-repeating-character.java",
+          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
+          "sha": "923746be452eae97cb1dbc61af554420d706d504",
+          "lastSyncedAt": "2026-08-13T18:11:05.235Z"
         }
       ]
     },
