@@ -35,10 +35,10 @@ A real-time overview of my problem-solving progress on LeetCode.
 <!-- DASHBOARD_START -->
 | Metric | Solved |
 |:--|--:|
-| 🧩 **Total Problems** | **282** |
+| 🧩 **Total Problems** | **283** |
 | 🟢 Easy | **71** |
 | 🟡 Medium | **161** |
-| 🔴 Hard | **50** |
+| 🔴 Hard | **51** |
 <!-- DASHBOARD_END -->
 
 > ⚡ Dashboard statistics are automatically synchronized with my LeetCode profile using a custom Python statistics engine and GitHub Actions.
@@ -83,8 +83,8 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 <!-- TOPIC_STATS_START -->
 | Topic | Solved |
 |:--|--:|
-| 📦 Array | **130** |
-| 🔤 String | **68** |
+| 📦 Array | **131** |
+| 🔤 String | **69** |
 | #️⃣ Hash Table | **51** |
 | ➗ Math | **50** |
 | 🔃 Sorting | **31** |
