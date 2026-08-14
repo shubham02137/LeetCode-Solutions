@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T18:46:12.191Z",
+  "updatedAt": "2026-08-14T10:55:02.684Z",
   "problems": [
     {
       "frontendId": "187",
@@ -123,6 +123,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "0b37e9b3c9b778c27499a0c5e1f943b8252e118e",
           "lastSyncedAt": "2026-08-11T14:58:11.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3090",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "problemName": "3090-maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+      "folderPath": "3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "3090-maximum-length-substring-with-two-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3090-maximum-length-substring-with-two-occurrences.java",
+          "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
+          "sha": "6b554ef9a5ea385ec1e4c24cce947eb5566cb902",
+          "lastSyncedAt": "2026-08-14T10:55:02.684Z"
         }
       ]
     },
