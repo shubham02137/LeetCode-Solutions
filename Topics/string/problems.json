@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-13T18:11:05.235Z",
+  "updatedAt": "2026-08-14T10:55:02.684Z",
   "problems": [
     {
       "frontendId": "187",
@@ -123,6 +123,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "923746be452eae97cb1dbc61af554420d706d504",
           "lastSyncedAt": "2026-08-13T18:11:05.235Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3090",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "problemName": "3090-maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+      "folderPath": "3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "3090-maximum-length-substring-with-two-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3090-maximum-length-substring-with-two-occurrences.java",
+          "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
+          "sha": "6b554ef9a5ea385ec1e4c24cce947eb5566cb902",
+          "lastSyncedAt": "2026-08-14T10:55:02.684Z"
         }
       ]
     },
