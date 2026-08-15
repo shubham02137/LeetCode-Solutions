@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-function",
+    "name": "Hash Function"
+  },
+  "updatedAt": "2026-08-15T17:55:49.468Z",
+  "problems": [
+    {
+      "frontendId": "214",
+      "title": "Shortest Palindrome",
+      "slug": "shortest-palindrome",
+      "problemName": "0214-shortest-palindrome",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+      "folderPath": "0214-shortest-palindrome/",
+      "readmePath": "0214-shortest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0214-shortest-palindrome.java",
+          "path": "0214-shortest-palindrome/0214-shortest-palindrome.java",
+          "sha": "9286204ff98ec9fd0a44ae3a0a4995e9ed1f2ba2",
+          "lastSyncedAt": "2026-08-15T17:55:49.468Z"
+        }
+      ]
+    }
+  ]
+}
