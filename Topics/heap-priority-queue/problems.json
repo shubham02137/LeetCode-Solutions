@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-15T17:57:49.654Z",
+  "updatedAt": "2026-08-16T09:32:33.905Z",
   "problems": [
     {
       "frontendId": "215",
@@ -23,6 +23,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "5df12592be798baff1ef2535bf0a1b44233f33c6",
           "lastSyncedAt": "2026-08-15T17:57:49.654Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "218",
+      "title": "The Skyline Problem",
+      "slug": "the-skyline-problem",
+      "problemName": "0218-the-skyline-problem",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem/",
+      "folderPath": "0218-the-skyline-problem/",
+      "readmePath": "0218-the-skyline-problem/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0218-the-skyline-problem.java",
+          "path": "0218-the-skyline-problem/0218-the-skyline-problem.java",
+          "sha": "a1325fe175e3f46118a85cd1de725492a9967449",
+          "lastSyncedAt": "2026-08-16T09:32:33.905Z"
         }
       ]
     }
