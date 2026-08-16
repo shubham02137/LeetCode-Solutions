@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T09:32:33.905Z",
+  "updatedAt": "2026-08-16T09:33:10.087Z",
   "problems": [
     {
       "frontendId": "188",
@@ -222,7 +222,7 @@
           "filename": "0218-the-skyline-problem.java",
           "path": "0218-the-skyline-problem/0218-the-skyline-problem.java",
           "sha": "a1325fe175e3f46118a85cd1de725492a9967449",
-          "lastSyncedAt": "2026-08-16T09:32:33.905Z"
+          "lastSyncedAt": "2026-08-16T09:33:10.087Z"
         }
       ]
     },
