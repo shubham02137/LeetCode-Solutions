@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-08-16T09:33:10.087Z",
+  "updatedAt": "2026-08-16T09:34:50.220Z",
   "problems": [
     {
       "frontendId": "218",
@@ -42,7 +42,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.java",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "923746be452eae97cb1dbc61af554420d706d504",
-          "lastSyncedAt": "2026-08-13T18:11:05.235Z"
+          "lastSyncedAt": "2026-08-16T09:34:50.220Z"
         }
       ]
     }
