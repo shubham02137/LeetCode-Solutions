@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-16T09:31:04.413Z",
+  "updatedAt": "2026-08-16T09:33:37.103Z",
   "problems": [
     {
       "frontendId": "212",
@@ -42,7 +42,7 @@
           "filename": "0216-combination-sum-iii.java",
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
           "sha": "0020bb10fa3da3a7d2f81a3eeb649b0028d9f170",
-          "lastSyncedAt": "2026-08-16T09:31:04.413Z"
+          "lastSyncedAt": "2026-08-16T09:33:37.103Z"
         }
       ]
     },
