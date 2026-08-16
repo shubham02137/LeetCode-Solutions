@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-14T10:55:02.684Z",
+  "updatedAt": "2026-08-16T09:34:42.743Z",
   "problems": [
     {
       "frontendId": "187",
@@ -82,7 +82,7 @@
           "filename": "3090-maximum-length-substring-with-two-occurrences.java",
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.java",
           "sha": "6b554ef9a5ea385ec1e4c24cce947eb5566cb902",
-          "lastSyncedAt": "2026-08-14T10:55:02.684Z"
+          "lastSyncedAt": "2026-08-16T09:34:42.743Z"
         }
       ]
     }
