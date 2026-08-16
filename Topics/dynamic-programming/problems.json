@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-16T09:34:31.405Z",
+  "updatedAt": "2026-08-16T09:35:37.122Z",
   "problems": [
     {
       "frontendId": "188",
@@ -102,7 +102,7 @@
           "filename": "1510-stone-game-iv.java",
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "8b3c827a638fd3b35c00261b44b1dccfce95138b",
-          "lastSyncedAt": "2026-08-10T15:24:53.802Z"
+          "lastSyncedAt": "2026-08-16T09:35:37.122Z"
         }
       ]
     },
