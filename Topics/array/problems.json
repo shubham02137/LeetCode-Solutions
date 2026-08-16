@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T09:33:10.087Z",
+  "updatedAt": "2026-08-16T09:33:29.995Z",
   "problems": [
     {
       "frontendId": "188",
@@ -203,6 +203,26 @@
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
           "sha": "0020bb10fa3da3a7d2f81a3eeb649b0028d9f170",
           "lastSyncedAt": "2026-08-16T09:31:04.413Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0217-contains-duplicate.java",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.java",
+          "sha": "718f86e712190a469c5d1ec475e1250cbbd1ccaf",
+          "lastSyncedAt": "2026-08-16T09:33:29.995Z"
         }
       ]
     },
