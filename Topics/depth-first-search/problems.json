@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-10T15:26:37.990Z",
+  "updatedAt": "2026-08-16T09:35:26.929Z",
   "problems": [
     {
       "frontendId": "199",
@@ -102,7 +102,7 @@
           "filename": "0211-design-add-and-search-words-data-structure.java",
           "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.java",
           "sha": "8876f7319d61e0b4290ddc9e481e9cd3d43d537c",
-          "lastSyncedAt": "2026-08-10T15:26:37.990Z"
+          "lastSyncedAt": "2026-08-16T09:35:26.929Z"
         }
       ]
     },
