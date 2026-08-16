@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-16T09:33:37.103Z",
+  "updatedAt": "2026-08-16T09:35:13.874Z",
   "problems": [
     {
       "frontendId": "212",
@@ -22,7 +22,7 @@
           "filename": "0212-word-search-ii.java",
           "path": "0212-word-search-ii/0212-word-search-ii.java",
           "sha": "fef1ade9c1348426a8499e0b5219930a81deb6e1",
-          "lastSyncedAt": "2026-08-10T15:27:55.291Z"
+          "lastSyncedAt": "2026-08-16T09:35:13.874Z"
         }
       ]
     },
