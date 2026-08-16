@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-16T09:35:00.376Z",
+  "updatedAt": "2026-08-16T09:36:07.807Z",
   "problems": [
     {
       "frontendId": "187",
@@ -42,7 +42,7 @@
           "filename": "0209-minimum-size-subarray-sum.java",
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
           "sha": "4ae0a424a7a48f75937ec3178142eba130338010",
-          "lastSyncedAt": "2026-08-09T17:10:12.395Z"
+          "lastSyncedAt": "2026-08-16T09:36:07.807Z"
         }
       ]
     },
