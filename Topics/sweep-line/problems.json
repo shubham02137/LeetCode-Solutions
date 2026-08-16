@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sweep-line",
+    "name": "Sweep Line"
+  },
+  "updatedAt": "2026-08-16T09:32:33.905Z",
+  "problems": [
+    {
+      "frontendId": "218",
+      "title": "The Skyline Problem",
+      "slug": "the-skyline-problem",
+      "problemName": "0218-the-skyline-problem",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem/",
+      "folderPath": "0218-the-skyline-problem/",
+      "readmePath": "0218-the-skyline-problem/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0218-the-skyline-problem.java",
+          "path": "0218-the-skyline-problem/0218-the-skyline-problem.java",
+          "sha": "a1325fe175e3f46118a85cd1de725492a9967449",
+          "lastSyncedAt": "2026-08-16T09:32:33.905Z"
+        }
+      ]
+    }
+  ]
+}
