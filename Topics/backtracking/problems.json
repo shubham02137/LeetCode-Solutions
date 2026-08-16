@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-08-10T15:27:55.291Z",
+  "updatedAt": "2026-08-16T09:31:04.413Z",
   "problems": [
     {
       "frontendId": "212",
@@ -23,6 +23,26 @@
           "path": "0212-word-search-ii/0212-word-search-ii.java",
           "sha": "fef1ade9c1348426a8499e0b5219930a81deb6e1",
           "lastSyncedAt": "2026-08-10T15:27:55.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "problemName": "0216-combination-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+      "folderPath": "0216-combination-sum-iii/",
+      "readmePath": "0216-combination-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0216-combination-sum-iii.java",
+          "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
+          "sha": "0020bb10fa3da3a7d2f81a3eeb649b0028d9f170",
+          "lastSyncedAt": "2026-08-16T09:31:04.413Z"
         }
       ]
     },
