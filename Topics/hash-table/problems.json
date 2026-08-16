@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-14T10:55:02.684Z",
+  "updatedAt": "2026-08-16T09:33:29.995Z",
   "problems": [
     {
       "frontendId": "187",
@@ -83,6 +83,26 @@
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.java",
           "sha": "b8953822e21e197125da58d1b094164e6696bc2a",
           "lastSyncedAt": "2026-08-09T17:10:41.136Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0217-contains-duplicate.java",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.java",
+          "sha": "718f86e712190a469c5d1ec475e1250cbbd1ccaf",
+          "lastSyncedAt": "2026-08-16T09:33:29.995Z"
         }
       ]
     },
