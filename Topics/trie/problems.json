@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-08-16T09:35:26.929Z",
+  "updatedAt": "2026-08-16T09:36:36.709Z",
   "problems": [
     {
       "frontendId": "208",
@@ -22,7 +22,7 @@
           "filename": "0208-implement-trie-prefix-tree.java",
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.java",
           "sha": "b8953822e21e197125da58d1b094164e6696bc2a",
-          "lastSyncedAt": "2026-08-09T17:10:41.136Z"
+          "lastSyncedAt": "2026-08-16T09:36:36.709Z"
         }
       ]
     },
