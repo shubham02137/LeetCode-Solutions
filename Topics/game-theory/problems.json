@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-16T09:36:21.851Z",
+  "updatedAt": "2026-08-17T11:38:46.388Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -43,6 +43,26 @@
           "path": "1510-stone-game-iv/1510-stone-game-iv.java",
           "sha": "8b3c827a638fd3b35c00261b44b1dccfce95138b",
           "lastSyncedAt": "2026-08-16T09:35:37.122Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "1563-stone-game-v/",
+      "readmePath": "1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1563-stone-game-v.java",
+          "path": "1563-stone-game-v/1563-stone-game-v.java",
+          "sha": "930985270fd51523d3e7d7d7e790cbe8700b200b",
+          "lastSyncedAt": "2026-08-17T11:38:46.388Z"
         }
       ]
     },
