@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-16T09:36:07.807Z",
+  "updatedAt": "2026-08-17T11:40:17.305Z",
   "problems": [
     {
       "frontendId": "187",
@@ -43,6 +43,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
           "sha": "4ae0a424a7a48f75937ec3178142eba130338010",
           "lastSyncedAt": "2026-08-16T09:36:07.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "0219-contains-duplicate-ii/",
+      "readmePath": "0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0219-contains-duplicate-ii.java",
+          "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.java",
+          "sha": "f85b08e0e66a228acc833288936b8e05cfe0a63c",
+          "lastSyncedAt": "2026-08-17T11:40:17.305Z"
         }
       ]
     },
