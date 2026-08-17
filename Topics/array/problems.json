@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-17T11:38:46.388Z",
+  "updatedAt": "2026-08-17T11:40:17.305Z",
   "problems": [
     {
       "frontendId": "188",
@@ -243,6 +243,26 @@
           "path": "0218-the-skyline-problem/0218-the-skyline-problem.java",
           "sha": "a1325fe175e3f46118a85cd1de725492a9967449",
           "lastSyncedAt": "2026-08-16T09:33:10.087Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "0219-contains-duplicate-ii/",
+      "readmePath": "0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0219-contains-duplicate-ii.java",
+          "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.java",
+          "sha": "f85b08e0e66a228acc833288936b8e05cfe0a63c",
+          "lastSyncedAt": "2026-08-17T11:40:17.305Z"
         }
       ]
     },
