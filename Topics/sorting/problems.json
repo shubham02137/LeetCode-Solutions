@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-16T09:35:07.108Z",
+  "updatedAt": "2026-08-17T11:41:18.476Z",
   "problems": [
     {
       "frontendId": "215",
@@ -63,6 +63,26 @@
           "path": "0218-the-skyline-problem/0218-the-skyline-problem.java",
           "sha": "a1325fe175e3f46118a85cd1de725492a9967449",
           "lastSyncedAt": "2026-08-16T09:33:10.087Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "220",
+      "title": "Contains Duplicate III",
+      "slug": "contains-duplicate-iii",
+      "problemName": "0220-contains-duplicate-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-iii/",
+      "folderPath": "0220-contains-duplicate-iii/",
+      "readmePath": "0220-contains-duplicate-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0220-contains-duplicate-iii.java",
+          "path": "0220-contains-duplicate-iii/0220-contains-duplicate-iii.java",
+          "sha": "813298b20a1e4198d57db348c77fdd6c84f863f9",
+          "lastSyncedAt": "2026-08-17T11:41:18.476Z"
         }
       ]
     },
