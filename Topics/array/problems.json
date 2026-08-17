@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-17T11:41:18.476Z",
+  "updatedAt": "2026-08-17T11:42:55.912Z",
   "problems": [
     {
       "frontendId": "188",
@@ -283,6 +283,26 @@
           "path": "0220-contains-duplicate-iii/0220-contains-duplicate-iii.java",
           "sha": "813298b20a1e4198d57db348c77fdd6c84f863f9",
           "lastSyncedAt": "2026-08-17T11:41:18.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "221",
+      "title": "Maximal Square",
+      "slug": "maximal-square",
+      "problemName": "0221-maximal-square",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-square/",
+      "folderPath": "0221-maximal-square/",
+      "readmePath": "0221-maximal-square/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0221-maximal-square.java",
+          "path": "0221-maximal-square/0221-maximal-square.java",
+          "sha": "724c5ef933bb88b45060f5e7b8bb021b83e7c41a",
+          "lastSyncedAt": "2026-08-17T11:42:55.912Z"
         }
       ]
     },
