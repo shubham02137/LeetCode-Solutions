@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T18:31:57.858Z",
+  "updatedAt": "2026-08-18T18:33:04.740Z",
   "problems": [
     {
       "frontendId": "189",
@@ -162,7 +162,7 @@
           "filename": "1563-stone-game-v.java",
           "path": "1563-stone-game-v/1563-stone-game-v.java",
           "sha": "930985270fd51523d3e7d7d7e790cbe8700b200b",
-          "lastSyncedAt": "2026-08-17T11:38:46.388Z"
+          "lastSyncedAt": "2026-08-18T18:33:04.740Z"
         }
       ]
     },
