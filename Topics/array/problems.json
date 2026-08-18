@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-17T11:42:55.912Z",
+  "updatedAt": "2026-08-18T18:23:00.365Z",
   "problems": [
     {
       "frontendId": "188",
@@ -423,6 +423,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "0b37e9b3c9b778c27499a0c5e1f943b8252e118e",
           "lastSyncedAt": "2026-08-16T09:35:07.108Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3471",
+      "title": "Find the Largest Almost Missing Integer",
+      "slug": "find-the-largest-almost-missing-integer",
+      "problemName": "3471-find-the-largest-almost-missing-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
+      "folderPath": "3471-find-the-largest-almost-missing-integer/",
+      "readmePath": "3471-find-the-largest-almost-missing-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3471-find-the-largest-almost-missing-integer.java",
+          "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.java",
+          "sha": "becdd33a1d37084121c1606e61a9af42374093bb",
+          "lastSyncedAt": "2026-08-18T18:23:00.365Z"
         }
       ]
     },
