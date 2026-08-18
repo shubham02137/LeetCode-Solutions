@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T18:33:59.845Z",
+  "updatedAt": "2026-08-18T18:34:19.597Z",
   "problems": [
     {
       "frontendId": "188",
@@ -182,7 +182,7 @@
           "filename": "0215-kth-largest-element-in-an-array.java",
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "5df12592be798baff1ef2535bf0a1b44233f33c6",
-          "lastSyncedAt": "2026-08-16T09:33:57.519Z"
+          "lastSyncedAt": "2026-08-18T18:34:19.597Z"
         }
       ]
     },
