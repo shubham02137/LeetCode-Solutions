@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T18:33:45.352Z",
+  "updatedAt": "2026-08-18T18:33:54.156Z",
   "problems": [
     {
       "frontendId": "188",
@@ -202,7 +202,7 @@
           "filename": "0216-combination-sum-iii.java",
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.java",
           "sha": "0020bb10fa3da3a7d2f81a3eeb649b0028d9f170",
-          "lastSyncedAt": "2026-08-16T09:33:37.103Z"
+          "lastSyncedAt": "2026-08-18T18:33:54.156Z"
         }
       ]
     },
