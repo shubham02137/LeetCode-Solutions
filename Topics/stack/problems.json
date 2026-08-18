@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack"
+  },
+  "updatedAt": "2026-08-18T18:31:41.067Z",
+  "problems": [
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "0224-basic-calculator/",
+      "readmePath": "0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0224-basic-calculator.java",
+          "path": "0224-basic-calculator/0224-basic-calculator.java",
+          "sha": "c5c309f1c348c250b6d6c306acfd545c85196d97",
+          "lastSyncedAt": "2026-08-18T18:31:41.067Z"
+        }
+      ]
+    }
+  ]
+}
