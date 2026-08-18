@@ -4,7 +4,7 @@
     "slug": "nim-game",
     "name": "Nim Game"
   },
-  "updatedAt": "2026-08-16T09:35:37.122Z",
+  "updatedAt": "2026-08-18T18:33:59.845Z",
   "problems": [
     {
       "frontendId": "1510",
@@ -42,7 +42,7 @@
           "filename": "2029-stone-game-ix.java",
           "path": "2029-stone-game-ix/2029-stone-game-ix.java",
           "sha": "dd5d09fb02f2303bd4c60f845459042156793153",
-          "lastSyncedAt": "2026-08-16T09:33:41.973Z"
+          "lastSyncedAt": "2026-08-18T18:33:59.845Z"
         }
       ]
     }
