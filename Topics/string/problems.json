@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-16T09:36:36.709Z",
+  "updatedAt": "2026-08-18T18:31:41.067Z",
   "problems": [
     {
       "frontendId": "187",
@@ -123,6 +123,26 @@
           "path": "0214-shortest-palindrome/0214-shortest-palindrome.java",
           "sha": "9286204ff98ec9fd0a44ae3a0a4995e9ed1f2ba2",
           "lastSyncedAt": "2026-08-16T09:34:08.831Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "0224-basic-calculator/",
+      "readmePath": "0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0224-basic-calculator.java",
+          "path": "0224-basic-calculator/0224-basic-calculator.java",
+          "sha": "c5c309f1c348c250b6d6c306acfd545c85196d97",
+          "lastSyncedAt": "2026-08-18T18:31:41.067Z"
         }
       ]
     },
