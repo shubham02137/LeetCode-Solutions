@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-18T18:32:40.866Z",
+  "updatedAt": "2026-08-18T18:32:56.384Z",
   "problems": [
     {
       "frontendId": "187",
@@ -62,7 +62,7 @@
           "filename": "0219-contains-duplicate-ii.java",
           "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.java",
           "sha": "f85b08e0e66a228acc833288936b8e05cfe0a63c",
-          "lastSyncedAt": "2026-08-17T11:40:17.305Z"
+          "lastSyncedAt": "2026-08-18T18:32:56.384Z"
         }
       ]
     },
