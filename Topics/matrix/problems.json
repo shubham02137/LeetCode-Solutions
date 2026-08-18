@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-17T11:42:55.912Z",
+  "updatedAt": "2026-08-18T18:32:30.530Z",
   "problems": [
     {
       "frontendId": "200",
@@ -62,7 +62,7 @@
           "filename": "0221-maximal-square.java",
           "path": "0221-maximal-square/0221-maximal-square.java",
           "sha": "724c5ef933bb88b45060f5e7b8bb021b83e7c41a",
-          "lastSyncedAt": "2026-08-17T11:42:55.912Z"
+          "lastSyncedAt": "2026-08-18T18:32:30.530Z"
         }
       ]
     }
