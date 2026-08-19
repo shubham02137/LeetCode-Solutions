@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-19T16:13:46.240Z",
+  "updatedAt": "2026-08-19T16:14:13.941Z",
   "problems": [
     {
       "frontendId": "187",
@@ -102,7 +102,7 @@
           "filename": "0222-count-complete-tree-nodes.java",
           "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.java",
           "sha": "c36ef18fd17eae07d4754d65b984e752f1e78815",
-          "lastSyncedAt": "2026-08-18T18:32:09.024Z"
+          "lastSyncedAt": "2026-08-19T16:14:13.941Z"
         }
       ]
     },
