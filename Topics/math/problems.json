@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-19T16:13:58.682Z",
+  "updatedAt": "2026-08-19T16:14:07.825Z",
   "problems": [
     {
       "frontendId": "189",
@@ -82,7 +82,7 @@
           "filename": "0223-rectangle-area.java",
           "path": "0223-rectangle-area/0223-rectangle-area.java",
           "sha": "72985121d5aff2ef464f3fba2f55a24ce978a74a",
-          "lastSyncedAt": "2026-08-18T18:31:57.858Z"
+          "lastSyncedAt": "2026-08-19T16:14:07.825Z"
         }
       ]
     },
