@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-18T18:31:41.067Z",
+  "updatedAt": "2026-08-19T16:13:05.909Z",
   "problems": [
     {
       "frontendId": "224",
@@ -23,6 +23,26 @@
           "path": "0224-basic-calculator/0224-basic-calculator.java",
           "sha": "c5c309f1c348c250b6d6c306acfd545c85196d97",
           "lastSyncedAt": "2026-08-18T18:31:41.067Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "227",
+      "title": "Basic Calculator II",
+      "slug": "basic-calculator-ii",
+      "problemName": "0227-basic-calculator-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii/",
+      "folderPath": "0227-basic-calculator-ii/",
+      "readmePath": "0227-basic-calculator-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0227-basic-calculator-ii.java",
+          "path": "0227-basic-calculator-ii/0227-basic-calculator-ii.java",
+          "sha": "53d6d3e8349c9c7f02bfb79072a8d5e971f4c3f3",
+          "lastSyncedAt": "2026-08-19T16:13:05.909Z"
         }
       ]
     }
