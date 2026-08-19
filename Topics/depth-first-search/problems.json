@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-16T09:36:48.025Z",
+  "updatedAt": "2026-08-19T16:13:18.352Z",
   "problems": [
     {
       "frontendId": "199",
@@ -103,6 +103,26 @@
           "path": "0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.java",
           "sha": "8876f7319d61e0b4290ddc9e481e9cd3d43d537c",
           "lastSyncedAt": "2026-08-16T09:35:26.929Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "0226-invert-binary-tree/",
+      "readmePath": "0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0226-invert-binary-tree.java",
+          "path": "0226-invert-binary-tree/0226-invert-binary-tree.java",
+          "sha": "a31c0fbe7534bce810b73a6cb6967d4378fa2979",
+          "lastSyncedAt": "2026-08-19T16:13:18.352Z"
         }
       ]
     },
