@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-18T18:33:04.740Z",
+  "updatedAt": "2026-08-21T18:25:39.790Z",
   "problems": [
     {
       "frontendId": "188",
@@ -83,6 +83,26 @@
           "path": "0221-maximal-square/0221-maximal-square.java",
           "sha": "724c5ef933bb88b45060f5e7b8bb021b83e7c41a",
           "lastSyncedAt": "2026-08-18T18:32:30.530Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "233",
+      "title": "Number of Digit One",
+      "slug": "number-of-digit-one",
+      "problemName": "0233-number-of-digit-one",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-digit-one/",
+      "folderPath": "0233-number-of-digit-one/",
+      "readmePath": "0233-number-of-digit-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0233-number-of-digit-one.java",
+          "path": "0233-number-of-digit-one/0233-number-of-digit-one.java",
+          "sha": "739cee21e63adf4ea7a5dd70306379ef7fb9f09d",
+          "lastSyncedAt": "2026-08-21T18:25:39.790Z"
         }
       ]
     },
