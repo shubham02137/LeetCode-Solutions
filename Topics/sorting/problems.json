@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-18T18:34:19.597Z",
+  "updatedAt": "2026-08-21T18:27:36.406Z",
   "problems": [
     {
       "frontendId": "215",
@@ -83,6 +83,26 @@
           "path": "0220-contains-duplicate-iii/0220-contains-duplicate-iii.java",
           "sha": "813298b20a1e4198d57db348c77fdd6c84f863f9",
           "lastSyncedAt": "2026-08-18T18:32:40.866Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0229-majority-element-ii.java",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.java",
+          "sha": "4b87e80707d4e58e30afcf2836b0f1f5f16788c7",
+          "lastSyncedAt": "2026-08-21T18:27:36.406Z"
         }
       ]
     },
