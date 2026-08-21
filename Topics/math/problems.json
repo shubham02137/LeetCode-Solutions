@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-21T18:26:58.695Z",
+  "updatedAt": "2026-08-21T18:28:04.266Z",
   "problems": [
     {
       "frontendId": "189",
@@ -122,7 +122,7 @@
           "filename": "0227-basic-calculator-ii.java",
           "path": "0227-basic-calculator-ii/0227-basic-calculator-ii.java",
           "sha": "53d6d3e8349c9c7f02bfb79072a8d5e971f4c3f3",
-          "lastSyncedAt": "2026-08-19T16:13:05.909Z"
+          "lastSyncedAt": "2026-08-21T18:28:04.266Z"
         }
       ]
     },
