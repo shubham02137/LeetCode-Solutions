@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-20T17:08:41.977Z",
+  "updatedAt": "2026-08-21T18:27:57.477Z",
   "problems": [
     {
       "frontendId": "3069",
@@ -22,7 +22,7 @@
           "filename": "3069-distribute-elements-into-two-arrays-i.java",
           "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.java",
           "sha": "3e7918a32ad95dc098cc1841c116e502b205f6fe",
-          "lastSyncedAt": "2026-08-20T17:08:41.977Z"
+          "lastSyncedAt": "2026-08-21T18:27:57.477Z"
         }
       ]
     }
