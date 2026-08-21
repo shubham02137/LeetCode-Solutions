@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-21T18:28:57.897Z",
+  "updatedAt": "2026-08-21T18:29:03.934Z",
   "problems": [
     {
       "frontendId": "188",
@@ -302,7 +302,7 @@
           "filename": "0221-maximal-square.java",
           "path": "0221-maximal-square/0221-maximal-square.java",
           "sha": "724c5ef933bb88b45060f5e7b8bb021b83e7c41a",
-          "lastSyncedAt": "2026-08-18T18:32:30.530Z"
+          "lastSyncedAt": "2026-08-21T18:29:03.934Z"
         }
       ]
     },
