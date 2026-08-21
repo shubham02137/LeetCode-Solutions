@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search-tree",
+    "name": "Binary Search Tree"
+  },
+  "updatedAt": "2026-08-21T18:27:22.241Z",
+  "problems": [
+    {
+      "frontendId": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "problemName": "0230-kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "folderPath": "0230-kth-smallest-element-in-a-bst/",
+      "readmePath": "0230-kth-smallest-element-in-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0230-kth-smallest-element-in-a-bst.java",
+          "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.java",
+          "sha": "a7301eda59f64f95d59f626fb31a24fb6a148d79",
+          "lastSyncedAt": "2026-08-21T18:27:22.241Z"
+        }
+      ]
+    }
+  ]
+}
