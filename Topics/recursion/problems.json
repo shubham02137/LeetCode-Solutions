@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-21T18:26:33.517Z",
+  "updatedAt": "2026-08-21T18:26:48.745Z",
   "problems": [
     {
       "frontendId": "203",
@@ -82,7 +82,7 @@
           "filename": "0231-power-of-two.java",
           "path": "0231-power-of-two/0231-power-of-two.java",
           "sha": "aeaac1421e5ef7ef459092d66a92b7890fda3fdf",
-          "lastSyncedAt": "2026-08-21T18:23:54.417Z"
+          "lastSyncedAt": "2026-08-21T18:26:48.745Z"
         }
       ]
     },
