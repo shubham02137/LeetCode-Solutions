@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-21T18:27:36.406Z",
+  "updatedAt": "2026-08-21T18:27:54.042Z",
   "problems": [
     {
       "frontendId": "188",
@@ -303,6 +303,26 @@
           "path": "0221-maximal-square/0221-maximal-square.java",
           "sha": "724c5ef933bb88b45060f5e7b8bb021b83e7c41a",
           "lastSyncedAt": "2026-08-18T18:32:30.530Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "problemName": "0228-summary-ranges",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
+      "folderPath": "0228-summary-ranges/",
+      "readmePath": "0228-summary-ranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0228-summary-ranges.java",
+          "path": "0228-summary-ranges/0228-summary-ranges.java",
+          "sha": "f862628d9999dcff03b0e7b8a95750df82cdd030",
+          "lastSyncedAt": "2026-08-21T18:27:54.042Z"
         }
       ]
     },
