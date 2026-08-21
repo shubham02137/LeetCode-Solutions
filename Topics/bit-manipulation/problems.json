@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-21T18:26:48.745Z",
+  "updatedAt": "2026-08-21T18:26:58.695Z",
   "problems": [
     {
       "frontendId": "187",
@@ -143,6 +143,26 @@
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.java",
           "sha": "334d6f856e13dfb4c894c6bd05f86227138ee379",
           "lastSyncedAt": "2026-08-19T16:13:46.240Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3116",
+      "title": "Kth Smallest Amount With Single Denomination Combination",
+      "slug": "kth-smallest-amount-with-single-denomination-combination",
+      "problemName": "3116-kth-smallest-amount-with-single-denomination-combination",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
+      "folderPath": "3116-kth-smallest-amount-with-single-denomination-combination/",
+      "readmePath": "3116-kth-smallest-amount-with-single-denomination-combination/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3116-kth-smallest-amount-with-single-denomination-combination.java",
+          "path": "3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.java",
+          "sha": "e0872e9613a5b2b75c18962a8803d51da17fadc6",
+          "lastSyncedAt": "2026-08-21T18:26:58.695Z"
         }
       ]
     },
