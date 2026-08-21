@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-21T18:27:22.241Z",
+  "updatedAt": "2026-08-21T18:28:11.663Z",
   "problems": [
     {
       "frontendId": "199",
@@ -62,7 +62,7 @@
           "filename": "0226-invert-binary-tree.java",
           "path": "0226-invert-binary-tree/0226-invert-binary-tree.java",
           "sha": "a31c0fbe7534bce810b73a6cb6967d4378fa2979",
-          "lastSyncedAt": "2026-08-19T16:13:18.352Z"
+          "lastSyncedAt": "2026-08-21T18:28:11.663Z"
         }
       ]
     },
