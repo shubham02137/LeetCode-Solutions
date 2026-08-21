@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-21T18:25:39.790Z",
+  "updatedAt": "2026-08-21T18:26:33.517Z",
   "problems": [
     {
       "frontendId": "188",
@@ -102,7 +102,7 @@
           "filename": "0233-number-of-digit-one.java",
           "path": "0233-number-of-digit-one/0233-number-of-digit-one.java",
           "sha": "739cee21e63adf4ea7a5dd70306379ef7fb9f09d",
-          "lastSyncedAt": "2026-08-21T18:25:39.790Z"
+          "lastSyncedAt": "2026-08-21T18:26:33.517Z"
         }
       ]
     },
