@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-21T18:28:36.187Z",
+  "updatedAt": "2026-08-23T16:58:26.948Z",
   "problems": [
     {
       "frontendId": "187",
@@ -163,6 +163,26 @@
           "path": "0227-basic-calculator-ii/0227-basic-calculator-ii.java",
           "sha": "53d6d3e8349c9c7f02bfb79072a8d5e971f4c3f3",
           "lastSyncedAt": "2026-08-21T18:28:04.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "1927-sum-game/",
+      "readmePath": "1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1927-sum-game.java",
+          "path": "1927-sum-game/1927-sum-game.java",
+          "sha": "404e408afa19a01a99ee2f799480b10399da84fd",
+          "lastSyncedAt": "2026-08-23T16:58:26.948Z"
         }
       ]
     },
