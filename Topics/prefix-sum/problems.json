@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-16T09:36:21.851Z",
+  "updatedAt": "2026-08-25T18:30:23.810Z",
   "problems": [
     {
       "frontendId": "209",
@@ -43,6 +43,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.java",
           "sha": "3bf4323a5e4a29cb12ffa864dfca5796bff50f08",
           "lastSyncedAt": "2026-08-16T09:36:21.851Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "1872-stone-game-viii/",
+      "readmePath": "1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1872-stone-game-viii.java",
+          "path": "1872-stone-game-viii/1872-stone-game-viii.java",
+          "sha": "56b334eeec09e77aa0bb2e407d83ed29ff584aa5",
+          "lastSyncedAt": "2026-08-25T18:30:23.810Z"
         }
       ]
     }
