@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-25T18:23:24.872Z",
+  "updatedAt": "2026-08-27T16:47:23.477Z",
   "problems": [
     {
       "frontendId": "187",
@@ -263,6 +263,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
           "sha": "a6f718fe3d765bb4f775904a78b03036a623d462",
           "lastSyncedAt": "2026-08-25T18:23:24.872Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.java",
+          "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
+          "sha": "e41cf9ea096e4829af329c8222cdfdaff8d2ef45",
+          "lastSyncedAt": "2026-08-27T16:47:23.477Z"
         }
       ]
     },
