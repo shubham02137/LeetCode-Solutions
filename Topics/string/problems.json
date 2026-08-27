@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-23T16:58:26.948Z",
+  "updatedAt": "2026-08-27T16:47:23.477Z",
   "problems": [
     {
       "frontendId": "187",
@@ -263,6 +263,26 @@
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.java",
           "sha": "3c6b598092598a494644cbde591f0b525a259b31",
           "lastSyncedAt": "2026-08-08T14:30:47.637Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.java",
+          "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.java",
+          "sha": "e41cf9ea096e4829af329c8222cdfdaff8d2ef45",
+          "lastSyncedAt": "2026-08-27T16:47:23.477Z"
         }
       ]
     }
