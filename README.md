@@ -35,9 +35,9 @@ A real-time overview of my problem-solving progress on LeetCode.
 <!-- DASHBOARD_START -->
 | Metric | Solved |
 |:--|--:|
-| 🧩 **Total Problems** | **317** |
+| 🧩 **Total Problems** | **318** |
 | 🟢 Easy | **83** |
-| 🟡 Medium | **175** |
+| 🟡 Medium | **176** |
 | 🔴 Hard | **59** |
 <!-- DASHBOARD_END -->
 
@@ -84,8 +84,8 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 | Topic | Solved |
 |:--|--:|
 | 📦 Array | **150** |
-| 🔤 String | **75** |
-| #️⃣ Hash Table | **58** |
+| 🔤 String | **76** |
+| #️⃣ Hash Table | **59** |
 | ➗ Math | **61** |
 | 🔃 Sorting | **36** |
 | 👉 Two Pointers | **35** |
@@ -104,7 +104,7 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 | 🟣 Depth-First Search | **31** |
 | 🔗 Union Find | **0** |
 | 🧩 Dynamic Programming | **56** |
-| 🎯 Greedy | **23** |
+| 🎯 Greedy | **24** |
 | ↩️ Backtracking | **23** |
 | 🔡 Trie | **7** |
 | 💡 Bit Manipulation | **20** |
