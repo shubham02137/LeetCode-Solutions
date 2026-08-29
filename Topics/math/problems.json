@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-29T16:39:24.154Z",
+  "updatedAt": "2026-08-29T16:39:39.376Z",
   "problems": [
     {
       "frontendId": "189",
@@ -142,7 +142,7 @@
           "filename": "0231-power-of-two.java",
           "path": "0231-power-of-two/0231-power-of-two.java",
           "sha": "aeaac1421e5ef7ef459092d66a92b7890fda3fdf",
-          "lastSyncedAt": "2026-08-21T18:26:48.745Z"
+          "lastSyncedAt": "2026-08-29T16:39:39.376Z"
         }
       ]
     },
