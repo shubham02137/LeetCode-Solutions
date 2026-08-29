@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-08-21T18:28:49.749Z",
+  "updatedAt": "2026-08-29T16:40:01.643Z",
   "problems": [
     {
       "frontendId": "199",
@@ -82,7 +82,7 @@
           "filename": "0230-kth-smallest-element-in-a-bst.java",
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.java",
           "sha": "a7301eda59f64f95d59f626fb31a24fb6a148d79",
-          "lastSyncedAt": "2026-08-21T18:27:22.241Z"
+          "lastSyncedAt": "2026-08-29T16:40:01.643Z"
         }
       ]
     }
