@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-18T18:32:56.384Z",
+  "updatedAt": "2026-08-29T16:38:47.519Z",
   "problems": [
     {
       "frontendId": "187",
@@ -83,6 +83,26 @@
           "path": "0220-contains-duplicate-iii/0220-contains-duplicate-iii.java",
           "sha": "813298b20a1e4198d57db348c77fdd6c84f863f9",
           "lastSyncedAt": "2026-08-18T18:32:40.866Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "folderPath": "2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.java",
+          "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
+          "sha": "817f3f369a7a48a281d51d0ebc4f1531bf583a18",
+          "lastSyncedAt": "2026-08-29T16:38:47.519Z"
         }
       ]
     },
