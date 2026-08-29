@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-29T16:39:10.392Z",
+  "updatedAt": "2026-08-29T16:39:46.581Z",
   "problems": [
     {
       "frontendId": "188",
@@ -562,7 +562,7 @@
           "filename": "3116-kth-smallest-amount-with-single-denomination-combination.java",
           "path": "3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.java",
           "sha": "e0872e9613a5b2b75c18962a8803d51da17fadc6",
-          "lastSyncedAt": "2026-08-21T18:26:58.695Z"
+          "lastSyncedAt": "2026-08-29T16:39:46.581Z"
         }
       ]
     },
