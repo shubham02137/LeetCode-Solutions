@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T16:40:31.122Z",
+  "updatedAt": "2026-08-29T16:41:05.282Z",
   "problems": [
     {
       "frontendId": "187",
@@ -142,7 +142,7 @@
           "filename": "0224-basic-calculator.java",
           "path": "0224-basic-calculator/0224-basic-calculator.java",
           "sha": "c5c309f1c348c250b6d6c306acfd545c85196d97",
-          "lastSyncedAt": "2026-08-21T18:28:36.187Z"
+          "lastSyncedAt": "2026-08-29T16:41:05.282Z"
         }
       ]
     },
