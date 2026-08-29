@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-08-29T16:36:59.456Z",
+  "updatedAt": "2026-08-29T16:38:22.858Z",
   "problems": [
     {
       "frontendId": "200",
@@ -42,7 +42,7 @@
           "filename": "2948-make-lexicographically-smallest-array-by-swapping-elements.java",
           "path": "2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.java",
           "sha": "e1aabaf5dcfbbc55c6a5c20cf1cdc7558c930933",
-          "lastSyncedAt": "2026-08-29T16:36:59.456Z"
+          "lastSyncedAt": "2026-08-29T16:38:22.858Z"
         }
       ]
     }
