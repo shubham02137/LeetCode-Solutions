@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T16:38:31.286Z",
+  "updatedAt": "2026-08-29T16:38:47.519Z",
   "problems": [
     {
       "frontendId": "187",
@@ -203,6 +203,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.java",
           "sha": "923746be452eae97cb1dbc61af554420d706d504",
           "lastSyncedAt": "2026-08-16T09:34:50.220Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "folderPath": "2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.java",
+          "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.java",
+          "sha": "817f3f369a7a48a281d51d0ebc4f1531bf583a18",
+          "lastSyncedAt": "2026-08-29T16:38:47.519Z"
         }
       ]
     },
