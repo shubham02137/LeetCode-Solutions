@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-21T18:28:36.187Z",
+  "updatedAt": "2026-08-29T16:39:24.154Z",
   "problems": [
     {
       "frontendId": "203",
@@ -102,7 +102,7 @@
           "filename": "0233-number-of-digit-one.java",
           "path": "0233-number-of-digit-one/0233-number-of-digit-one.java",
           "sha": "739cee21e63adf4ea7a5dd70306379ef7fb9f09d",
-          "lastSyncedAt": "2026-08-21T18:26:33.517Z"
+          "lastSyncedAt": "2026-08-29T16:39:24.154Z"
         }
       ]
     }
