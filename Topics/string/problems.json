@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T16:38:47.519Z",
+  "updatedAt": "2026-08-29T16:39:14.685Z",
   "problems": [
     {
       "frontendId": "187",
@@ -182,7 +182,7 @@
           "filename": "1927-sum-game.java",
           "path": "1927-sum-game/1927-sum-game.java",
           "sha": "404e408afa19a01a99ee2f799480b10399da84fd",
-          "lastSyncedAt": "2026-08-23T16:58:26.948Z"
+          "lastSyncedAt": "2026-08-29T16:39:14.685Z"
         }
       ]
     },
