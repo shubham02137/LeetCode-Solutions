@@ -35,9 +35,9 @@ A real-time overview of my problem-solving progress on LeetCode.
 <!-- DASHBOARD_START -->
 | Metric | Solved |
 |:--|--:|
-| 🧩 **Total Problems** | **318** |
+| 🧩 **Total Problems** | **319** |
 | 🟢 Easy | **83** |
-| 🟡 Medium | **176** |
+| 🟡 Medium | **177** |
 | 🔴 Hard | **59** |
 <!-- DASHBOARD_END -->
 
@@ -83,11 +83,11 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 <!-- TOPIC_STATS_START -->
 | Topic | Solved |
 |:--|--:|
-| 📦 Array | **150** |
+| 📦 Array | **151** |
 | 🔤 String | **76** |
 | #️⃣ Hash Table | **59** |
 | ➗ Math | **61** |
-| 🔃 Sorting | **36** |
+| 🔃 Sorting | **37** |
 | 👉 Two Pointers | **35** |
 | 🪟 Sliding Window | **12** |
 | ➕ Prefix Sum | **0** |
