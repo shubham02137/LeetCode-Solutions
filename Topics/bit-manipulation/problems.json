@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-29T16:40:56.828Z",
+  "updatedAt": "2026-09-01T18:08:08.537Z",
   "problems": [
     {
       "frontendId": "187",
@@ -163,6 +163,26 @@
           "path": "3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.java",
           "sha": "e0872e9613a5b2b75c18962a8803d51da17fadc6",
           "lastSyncedAt": "2026-08-29T16:39:46.581Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3568",
+      "title": "Minimum Moves to Clean the Classroom",
+      "slug": "minimum-moves-to-clean-the-classroom",
+      "problemName": "3568-minimum-moves-to-clean-the-classroom",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+      "folderPath": "3568-minimum-moves-to-clean-the-classroom/",
+      "readmePath": "3568-minimum-moves-to-clean-the-classroom/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3568-minimum-moves-to-clean-the-classroom.java",
+          "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.java",
+          "sha": "aca993888dd3dd9ec43a15facbf7b15a1a543029",
+          "lastSyncedAt": "2026-09-01T18:08:08.537Z"
         }
       ]
     },
