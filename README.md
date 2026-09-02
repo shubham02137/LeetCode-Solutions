@@ -35,9 +35,9 @@ A real-time overview of my problem-solving progress on LeetCode.
 <!-- DASHBOARD_START -->
 | Metric | Solved |
 |:--|--:|
-| 🧩 **Total Problems** | **319** |
+| 🧩 **Total Problems** | **320** |
 | 🟢 Easy | **83** |
-| 🟡 Medium | **177** |
+| 🟡 Medium | **178** |
 | 🔴 Hard | **59** |
 <!-- DASHBOARD_END -->
 
@@ -83,9 +83,9 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 <!-- TOPIC_STATS_START -->
 | Topic | Solved |
 |:--|--:|
-| 📦 Array | **151** |
+| 📦 Array | **152** |
 | 🔤 String | **76** |
-| #️⃣ Hash Table | **59** |
+| #️⃣ Hash Table | **60** |
 | ➗ Math | **61** |
 | 🔃 Sorting | **37** |
 | 👉 Two Pointers | **35** |
@@ -100,14 +100,14 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 | 🌲 Binary Tree | **32** |
 | 🌿 Binary Search Tree | **0** |
 | 🕸️ Graph | **0** |
-| 🔵 Breadth-First Search | **28** |
+| 🔵 Breadth-First Search | **29** |
 | 🟣 Depth-First Search | **31** |
 | 🔗 Union Find | **0** |
 | 🧩 Dynamic Programming | **56** |
 | 🎯 Greedy | **24** |
 | ↩️ Backtracking | **23** |
 | 🔡 Trie | **7** |
-| 💡 Bit Manipulation | **20** |
+| 💡 Bit Manipulation | **21** |
 <!-- TOPIC_STATS_END -->
 
 > 🤖 Topic statistics are automatically maintained by the repository's statistics workflow.
