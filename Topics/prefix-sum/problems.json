@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-29T16:38:53.666Z",
+  "updatedAt": "2026-09-04T20:09:30.493Z",
   "problems": [
     {
       "frontendId": "209",
@@ -63,6 +63,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.java",
           "sha": "56b334eeec09e77aa0bb2e407d83ed29ff584aa5",
           "lastSyncedAt": "2026-08-29T16:38:53.666Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "3903-smallest-stable-index-i/",
+      "readmePath": "3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3903-smallest-stable-index-i.java",
+          "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.java",
+          "sha": "d74782730b7b87fbed59e594ef212195340b713a",
+          "lastSyncedAt": "2026-09-04T20:09:30.493Z"
         }
       ]
     }
