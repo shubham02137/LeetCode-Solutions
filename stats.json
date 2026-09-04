@@ -1,11 +1,11 @@
 {
   "username": "shubhamdevit",
-  "totalSolved": 321,
+  "totalSolved": 322,
   "easySolved": 84,
-  "mediumSolved": 178,
+  "mediumSolved": 179,
   "hardSolved": 59,
   "topics": {
-    "Array": 153,
+    "Array": 154,
     "Matrix": 21,
     "String": 76,
     "Simulation": 14,
@@ -27,7 +27,7 @@
     "Recursion": 15,
     "Sliding Window": 12,
     "Bit Manipulation": 21,
-    "Math": 62,
+    "Math": 63,
     "Design": 7,
     "Iterator": 1,
     "Database": 12,
