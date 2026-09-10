@@ -1,8 +1,8 @@
 {
   "username": "shubhamdevit",
-  "totalSolved": 326,
+  "totalSolved": 327,
   "easySolved": 86,
-  "mediumSolved": 180,
+  "mediumSolved": 181,
   "hardSolved": 60,
   "topics": {
     "Array": 156,
@@ -27,7 +27,7 @@
     "Recursion": 15,
     "Sliding Window": 12,
     "Bit Manipulation": 21,
-    "Math": 64,
+    "Math": 65,
     "Design": 7,
     "Iterator": 1,
     "Database": 12,
