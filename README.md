@@ -88,7 +88,7 @@ A continuously updated breakdown of the core Data Structures, Algorithms, and pr
 | #️⃣ Hash Table | **60** |
 | ➗ Math | **65** |
 | 🔃 Sorting | **37** |
-| 👉 Two Pointers | **36** |
+| 👉 Two Pointers | **37** |
 | 🪟 Sliding Window | **12** |
 | ➕ Prefix Sum | **0** |
 | 🔎 Binary Search | **24** |
